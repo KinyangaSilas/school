@@ -1,0 +1,233 @@
+[
+    {
+        "_id": "5c1a163ad6248b00046329e3",
+        "name": "Bori",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1656d6248b00046329e4",
+        "name": "Butiye",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1671d6248b00046329e5",
+        "name": "Dabel",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a167ed6248b00046329e6",
+        "name": "Damballa Fachana",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1688d6248b00046329e7",
+        "name": "Godoma",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1694d6248b00046329e8",
+        "name": "Golole",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a169ed6248b00046329e9",
+        "name": "Heillu",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16acd6248b00046329ea",
+        "name": "Manyatta",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16b7d6248b00046329eb",
+        "name": "Moyale",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16c2d6248b00046329ec",
+        "name": "Nana",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16cbd6248b00046329ed",
+        "name": "Odda",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16d7d6248b00046329ee",
+        "name": "Sololo",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16e2d6248b00046329ef",
+        "name": "Sololo Makutano",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16edd6248b00046329f0",
+        "name": "Uran",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a16fbd6248b00046329f1",
+        "name": "Rawana",
+        "constituency": "Moyale",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1731d6248b00046329f2",
+        "name": "Bubisa",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a173cd6248b00046329f3",
+        "name": "Dukana",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1748d6248b00046329f4",
+        "name": "Hurri Hills",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1753d6248b00046329f5",
+        "name": "Illeret",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a175ed6248b00046329f6",
+        "name": "Kalacha",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1768d6248b00046329f7",
+        "name": "Maikona",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1778d6248b00046329f8",
+        "name": "North Horr",
+        "constituency": "North Horr",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a17b8d6248b00046329f9",
+        "name": "Dakabaricha",
+        "constituency": "Saku",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a17c4d6248b00046329fa",
+        "name": "Dirib Gombo",
+        "constituency": "Saku",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a17cfd6248b00046329fb",
+        "name": "Karare",
+        "constituency": "Saku",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a17dad6248b00046329fc",
+        "name": "Mountain",
+        "constituency": "Saku",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a17e6d6248b00046329fd",
+        "name": "Sagante",
+        "constituency": "Saku",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a180ad6248b00046329fe",
+        "name": "Korr",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1815d6248b00046329ff",
+        "name": "Laisamis",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1820d6248b0004632a00",
+        "name": "Logologo",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a182cd6248b0004632a01",
+        "name": "Loiyangalani",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1839d6248b0004632a02",
+        "name": "Mount Kulal",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1858d6248b0004632a03",
+        "name": "South Horr",
+        "constituency": "Laisamis",
+        "county": "Marsabit",
+        "__v": 0
+    }
+]

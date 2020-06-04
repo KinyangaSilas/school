@@ -1,0 +1,184 @@
+[
+    {
+        "_id": "5c19f11118578a0004053a1a",
+        "name": "Kipevu",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f12c18578a0004053a1b",
+        "name": "Mikindani",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f14a18578a0004053a1c",
+        "name": "Miritini",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f16f18578a0004053a1d",
+        "name": "Port Reitz",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f17d18578a0004053a1e",
+        "name": "Tudor Estate",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f19d18578a0004053a1f",
+        "name": "Jomvu Kuu",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f26c18578a0004053a20",
+        "name": "Changamwe",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f28c18578a0004053a21",
+        "name": "Tudor Four",
+        "constituency": "Changamwe",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f31f18578a0004053a22",
+        "name": "Bamburi",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f32e18578a0004053a23",
+        "name": "Frere Town",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f33c18578a0004053a24",
+        "name": "Kizingo",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f34c18578a0004053a25",
+        "name": "Kongowea",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f35b18578a0004053a26",
+        "name": "Maweni",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f36c18578a0004053a27",
+        "name": "Mjambere",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f37b18578a0004053a28",
+        "name": "Makadara",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f38a18578a0004053a29",
+        "name": "Mwakirunge",
+        "constituency": "Kisauni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f3fa18578a0004053a2a",
+        "name": "Bofu",
+        "constituency": "Likoni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f40f18578a0004053a2b",
+        "name": "Ganjoni",
+        "constituency": "Likoni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f42318578a0004053a2c",
+        "name": "Mtongwe",
+        "constituency": "Likoni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f43818578a0004053a2d",
+        "name": "Shika Adabu",
+        "constituency": "Likoni",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f48c18578a0004053a2e",
+        "name": "Bondeni",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f49f18578a0004053a2f",
+        "name": "King'orani",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f4ac18578a0004053a30",
+        "name": "Majengo",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f4ba18578a0004053a31",
+        "name": "Mwembe Tayari",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f4c718578a0004053a32",
+        "name": "Shimanzi",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f4d918578a0004053a33",
+        "name": "Tononoka",
+        "constituency": "Mvita",
+        "county": "Mombasa",
+        "__v": 0
+    }
+]

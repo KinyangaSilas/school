@@ -1,0 +1,331 @@
+[
+    {
+        "_id": "5c1a4a9ed6248b0004632bff",
+        "name": "Chekomos",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4aabd6248b0004632c00",
+        "name": "Chemwochoi",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4ab8d6248b0004632c01",
+        "name": "Chepareria",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4acfd6248b0004632c02",
+        "name": "Chepkopegh",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4addd6248b0004632c03",
+        "name": "Endugh",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4ae8d6248b0004632c04",
+        "name": "Kaibos",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4af3d6248b0004632c05",
+        "name": "Kanyarkwat",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4afed6248b0004632c06",
+        "name": "Kapchemogen",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b09d6248b0004632c07",
+        "name": "Kapenguria",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b15d6248b0004632c08",
+        "name": "Kapenguria North",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b24d6248b0004632c09",
+        "name": "Psigirio",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b2dd6248b0004632c0a",
+        "name": "Keringet",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b37d6248b0004632c0b",
+        "name": "Kisiaunet",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b41d6248b0004632c0c",
+        "name": "Miskwony",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b4bd6248b0004632c0d",
+        "name": "Nakwijit",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b56d6248b0004632c0e",
+        "name": "Ptoyo",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b60d6248b0004632c0f",
+        "name": "Riwo",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b6ad6248b0004632c10",
+        "name": "Senetwo",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b74d6248b0004632c11",
+        "name": "Siyoi",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b7ed6248b0004632c12",
+        "name": "Sook",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b88d6248b0004632c13",
+        "name": "Talau",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b92d6248b0004632c14",
+        "name": "Tamugh",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4b9ed6248b0004632c15",
+        "name": "Ywalateke",
+        "constituency": "Kapenguria",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4bcad6248b0004632c16",
+        "name": "Batei",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4bdbd6248b0004632c17",
+        "name": "Cheptulel",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4bf0d6248b0004632c18",
+        "name": "Kaptabuk",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c14d6248b0004632c19",
+        "name": "Lelan",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c1dd6248b0004632c1a",
+        "name": "Lomut",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c27d6248b0004632c1b",
+        "name": "Masol",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c34d6248b0004632c1c",
+        "name": "Mwino",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c40d6248b0004632c1d",
+        "name": "Parua",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c49d6248b0004632c1e",
+        "name": "Porkoyu",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c53d6248b0004632c1f",
+        "name": "Sekerot",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c5bd6248b0004632c20",
+        "name": "Sekerr",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c65d6248b0004632c21",
+        "name": "Sondany",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c6ed6248b0004632c22",
+        "name": "Tapach",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4c7ad6248b0004632c23",
+        "name": "Wei Wei",
+        "constituency": "Sigor",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4db2d6248b0004632c24",
+        "name": "Suam",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4de2d6248b0004632c25",
+        "name": "Kodich",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4defd6248b0004632c26",
+        "name": "Kasei",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4df8d6248b0004632c27",
+        "name": "Kapchok",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e01d6248b0004632c28",
+        "name": "Kiwawa",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e0ad6248b0004632c29",
+        "name": "Alale",
+        "constituency": "Kacheliba",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e3fd6248b0004632c2a",
+        "name": "Chepareria",
+        "constituency": "Pokot South",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e4bd6248b0004632c2b",
+        "name": "Batei",
+        "constituency": "Pokot South",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e55d6248b0004632c2c",
+        "name": "Lelan",
+        "constituency": "Pokot South",
+        "county": "West Pokot",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4e62d6248b0004632c2d",
+        "name": "Tapach",
+        "constituency": "Pokot South",
+        "county": "West Pokot",
+        "__v": 0
+    }
+]

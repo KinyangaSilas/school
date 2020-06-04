@@ -1,0 +1,114 @@
+[
+    {
+        "_id": "5c1b68b58a6e0a0004a71b52",
+        "name": "Busali",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68c38a6e0a0004a71b53",
+        "name": "Chavakali",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68cc8a6e0a0004a71b54",
+        "name": "Izava",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68d38a6e0a0004a71b55",
+        "name": "Lyaduywa",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68df8a6e0a0004a71b56",
+        "name": "North Maragoli",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68e88a6e0a0004a71b57",
+        "name": "Sabatia West",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68f28a6e0a0004a71b58",
+        "name": "Wodanga",
+        "constituency": "Sabatia",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b695d8a6e0a0004a71b59",
+        "name": "Central Bunyore",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b69668a6e0a0004a71b5a",
+        "name": "Emabungo",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b69718a6e0a0004a71b5b",
+        "name": "Emuhaya North",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b697a8a6e0a0004a71b5c",
+        "name": "Luanda",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b69838a6e0a0004a71b5d",
+        "name": "Luanda South",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b698c8a6e0a0004a71b5e",
+        "name": "Mukhalakhala",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b69948a6e0a0004a71b5f",
+        "name": "Mwibona",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b699c8a6e0a0004a71b60",
+        "name": "Wemilabi",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b69a58a6e0a0004a71b61",
+        "name": "West Bunyore",
+        "constituency": "Emuhaya",
+        "county": "Vihiga",
+        "__v": 0
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "_id": "5c1a37a6d6248b0004632b18",
+        "name": "Aguthi",
+        "constituency": "Tetu",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a37ccd6248b0004632b19",
+        "name": "Karundu",
+        "constituency": "Tetu",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a37d7d6248b0004632b1a",
+        "name": "Muhoya",
+        "constituency": "Tetu",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a37e1d6248b0004632b1b",
+        "name": "Tetu",
+        "constituency": "Tetu",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a37ebd6248b0004632b1c",
+        "name": "Thingingi",
+        "constituency": "Tetu",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3825d6248b0004632b1d",
+        "name": "Endarasha",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a382fd6248b0004632b1e",
+        "name": "Gakawa",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3838d6248b0004632b1f",
+        "name": "Gatarakwa",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3842d6248b0004632b20",
+        "name": "Mugunda",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a384cd6248b0004632b21",
+        "name": "Mweiga",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a385cd6248b0004632b22",
+        "name": "Naro Moru",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3867d6248b0004632b23",
+        "name": "Thegu River",
+        "constituency": "Kieni",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3895d6248b0004632b24",
+        "name": "Commercial",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a389ed6248b0004632b25",
+        "name": "Hospital",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38aed6248b0004632b26",
+        "name": "Iria-ini",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38bad6248b0004632b27",
+        "name": "Kirimukuyu",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38c5d6248b0004632b28",
+        "name": "Konyu",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38cfd6248b0004632b29",
+        "name": "Magutu",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38dad6248b0004632b2a",
+        "name": "Market",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38e6d6248b0004632b2b",
+        "name": "Ngorano",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38f2d6248b0004632b2c",
+        "name": "Railway",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a38fed6248b0004632b2d",
+        "name": "Residential",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3907d6248b0004632b2e",
+        "name": "Stadium",
+        "constituency": "Mathira",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a392dd6248b0004632b2f",
+        "name": "Kanyange",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3937d6248b0004632b30",
+        "name": "Kianganda",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3943d6248b0004632b31",
+        "name": "Nduye River",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a394fd6248b0004632b32",
+        "name": "Nyamari",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3959d6248b0004632b33",
+        "name": "Thuti",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3963d6248b0004632b34",
+        "name": "Chinga",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a396ed6248b0004632b35",
+        "name": "Iria-Ini",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3979d6248b0004632b36",
+        "name": "Karima",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3984d6248b0004632b37",
+        "name": "Mahiga",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a398ed6248b0004632b38",
+        "name": "Mumwe",
+        "constituency": "Othaya",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a39d3d6248b0004632b39",
+        "name": "Gakindu",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a39ded6248b0004632b3a",
+        "name": "Giathugu",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a39e9d6248b0004632b3b",
+        "name": "Gikondi",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a39f3d6248b0004632b3c",
+        "name": "Githi",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a39fdd6248b0004632b3d",
+        "name": "Muhito",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a08d6248b0004632b3e",
+        "name": "Rutune",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a12d6248b0004632b3f",
+        "name": "Thanu",
+        "constituency": "Mukurweini",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a42d6248b0004632b40",
+        "name": "Chania",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a4cd6248b0004632b41",
+        "name": "Gatitu",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a57d6248b0004632b42",
+        "name": "Kamakwa",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a63d6248b0004632b43",
+        "name": "Karia",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a6ed6248b0004632b44",
+        "name": "Kiganjo",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a78d6248b0004632b45",
+        "name": "Kirichu",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3a96d6248b0004632b46",
+        "name": "Mukaro",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3aa1d6248b0004632b47",
+        "name": "Muruguru",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3aadd6248b0004632b48",
+        "name": "Nyaribo",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3ab7d6248b0004632b49",
+        "name": "Nyeri Central",
+        "constituency": "Nyeri Town",
+        "county": "Nyeri",
+        "__v": 0
+    }
+]

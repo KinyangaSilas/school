@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "5c1a18a7d6248b0004632a04",
+        "name": "Bisan Biliku",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18bbd6248b0004632a05",
+        "name": "Bulesa",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18c6d6248b0004632a06",
+        "name": "Isiolo Central",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18d1d6248b0004632a07",
+        "name": "Isiolo East",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18ded6248b0004632a08",
+        "name": "Isiolo West",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18e9d6248b0004632a09",
+        "name": "Kipsing",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a18f4d6248b0004632a0a",
+        "name": "Korbesa",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1900d6248b0004632a0b",
+        "name": "Malka Galla",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a190ad6248b0004632a0c",
+        "name": "Merti",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1915d6248b0004632a0d",
+        "name": "Ngare Mara",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1920d6248b0004632a0e",
+        "name": "Oldo-Nyiro",
+        "constituency": "Isiolo North",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a194cd6248b0004632a0f",
+        "name": "Eresaboru",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a195ad6248b0004632a10",
+        "name": "Garbatula",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1966d6248b0004632a11",
+        "name": "Garfarsa",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a196fd6248b0004632a12",
+        "name": "Kinna",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a197ad6248b0004632a13",
+        "name": "Kula Mawe",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1986d6248b0004632a14",
+        "name": "Madogashe",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1990d6248b0004632a15",
+        "name": "Malkadaka",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a199bd6248b0004632a16",
+        "name": "Rapsu",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a19a4d6248b0004632a17",
+        "name": "Sericho",
+        "constituency": "Isiolo South",
+        "county": "Isiolo",
+        "__v": 0
+    }
+]

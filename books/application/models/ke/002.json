@@ -1,0 +1,219 @@
+[
+    {
+        "_id": "5c19f54218578a0004053a34",
+        "name": "Diani",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f56818578a0004053a35",
+        "name": "Dzombo",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f57a18578a0004053a36",
+        "name": "Kasemeni",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f59318578a0004053a37",
+        "name": "Kikoneni",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5a218578a0004053a38",
+        "name": "Kingwende",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5af18578a0004053a39",
+        "name": "Kinondo",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5be18578a0004053a3a",
+        "name": "Msambweni",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5ce18578a0004053a3b",
+        "name": "Mwereni",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5df18578a0004053a3c",
+        "name": "Pongwe",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f5ee18578a0004053a3d",
+        "name": "Vanga",
+        "constituency": "Msambweni",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f68a18578a0004053a3e",
+        "name": "Golini",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f69e18578a0004053a3f",
+        "name": "Kubo South",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f6b218578a0004053a40",
+        "name": "Kwale",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f6c718578a0004053a41",
+        "name": "Mazumalume",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f6de18578a0004053a42",
+        "name": "Mbuguni",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f6ed18578a0004053a43",
+        "name": "Mkongani",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f6fa18578a0004053a44",
+        "name": "Mwaluphamba",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f70618578a0004053a45",
+        "name": "Mwamgunga",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f71418578a0004053a46",
+        "name": "Tiwi",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f71e18578a0004053a47",
+        "name": "Vuga",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f72918578a0004053a48",
+        "name": "Waa",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f73518578a0004053a49",
+        "name": "Ziwani",
+        "constituency": "Matuga",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f77018578a0004053a4a",
+        "name": "Chengoni",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f77918578a0004053a4b",
+        "name": "Kasemeni",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f78818578a0004053a4c",
+        "name": "Kinango",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f79618578a0004053a4d",
+        "name": "Taru",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f7a318578a0004053a4e",
+        "name": "Gandini",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f7b218578a0004053a4f",
+        "name": "Mwatate",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f7be18578a0004053a50",
+        "name": "Ndavaya",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f7d018578a0004053a51",
+        "name": "Makamini",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f7e118578a0004053a52",
+        "name": "Vigurungani",
+        "constituency": "Kinango",
+        "county": "Kwale",
+        "__v": 0
+    }
+]

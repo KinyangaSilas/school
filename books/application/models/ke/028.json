@@ -1,0 +1,345 @@
+[
+    {
+        "_id": "5c1b31b8aef1500004df03eb",
+        "name": "Embobut",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b31e8aef1500004df03ec",
+        "name": "Embolot",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b31f3aef1500004df03ed",
+        "name": "Endo",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b31fdaef1500004df03ee",
+        "name": "Kaptich",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3208aef1500004df03ef",
+        "name": "Kapyego",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3210aef1500004df03f0",
+        "name": "Kipkaner",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b321daef1500004df03f1",
+        "name": "Koibirir",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3226aef1500004df03f2",
+        "name": "Mokoro",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b322eaef1500004df03f3",
+        "name": "Mon",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3237aef1500004df03f4",
+        "name": "Murkutwo",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b323faef1500004df03f5",
+        "name": "Sambirir",
+        "constituency": "Marakwet East",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3269aef1500004df03f6",
+        "name": "Arror",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3272aef1500004df03f7",
+        "name": "Chebororwa",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b327aaef1500004df03f8",
+        "name": "Cherang'any",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3285aef1500004df03f9",
+        "name": "Chesuman",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3290aef1500004df03fa",
+        "name": "Kamoi",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3299aef1500004df03fb",
+        "name": "Kapsowar",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b32a2aef1500004df03fc",
+        "name": "Koibarak",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b32aaaef1500004df03fd",
+        "name": "Kuserwo",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b32b3aef1500004df03fe",
+        "name": "Lelan",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b32bcaef1500004df03ff",
+        "name": "Moiben",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b32c5aef1500004df0400",
+        "name": "Sengwer",
+        "constituency": "Marakwet West",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3303aef1500004df0401",
+        "name": "Central",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b330baef1500004df0402",
+        "name": "Irong",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3312aef1500004df0403",
+        "name": "Kapkonga",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b331aaef1500004df0404",
+        "name": "Kapterik",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3322aef1500004df0405",
+        "name": "Kessup",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b332baef1500004df0406",
+        "name": "Sergoit",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3333aef1500004df0407",
+        "name": "Kamogich",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b333caef1500004df0408",
+        "name": "Kapchemutwa",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3346aef1500004df0409",
+        "name": "Keu",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b334faef1500004df040a",
+        "name": "Kiptuilong",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3359aef1500004df040b",
+        "name": "Kokwao",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3360aef1500004df040c",
+        "name": "Mutei",
+        "constituency": "Keiyo North",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3396aef1500004df040d",
+        "name": "Chemoibon",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b339faef1500004df040e",
+        "name": "Chepsigot",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33aaaef1500004df040f",
+        "name": "Kabiemit",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33b3aef1500004df0410",
+        "name": "Kamwosor",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33bbaef1500004df0411",
+        "name": "Kaptarakwa",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33c2aef1500004df0412",
+        "name": "Kibargoi",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33caaef1500004df0413",
+        "name": "Kitany",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33d1aef1500004df0414",
+        "name": "Kocholwo",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33d9aef1500004df0415",
+        "name": "Maoi",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33e1aef1500004df0416",
+        "name": "Marichor",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33e9aef1500004df0417",
+        "name": "Metkei",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33f1aef1500004df0418",
+        "name": "Mosop",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b33f9aef1500004df0419",
+        "name": "Nyaru",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3406aef1500004df041a",
+        "name": "Soy",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b340eaef1500004df041b",
+        "name": "Tumeiyo",
+        "constituency": "Keiyo South",
+        "county": "Elgeyo-Marakwet",
+        "__v": 0
+    }
+]

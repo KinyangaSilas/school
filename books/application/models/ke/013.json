@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "5c1a28e8d6248b0004632a5d",
+        "name": "Chiakariga",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2906d6248b0004632a5e",
+        "name": "Gatue",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2911d6248b0004632a5f",
+        "name": "Gikingo",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a291fd6248b0004632a60",
+        "name": "Kamarandi",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a292ad6248b0004632a61",
+        "name": "Kanjoro",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a293bd6248b0004632a62",
+        "name": "Kathangachini",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2945d6248b0004632a63",
+        "name": "Maragwa",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2953d6248b0004632a64",
+        "name": "Marimanti",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a295fd6248b0004632a65",
+        "name": "Nkondi",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2969d6248b0004632a66",
+        "name": "Ntugi",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2976d6248b0004632a67",
+        "name": "Tunyai",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2983d6248b0004632a68",
+        "name": "Turima",
+        "constituency": "Tharaka",
+        "county": "Tharaka-Nithi",
+        "__v": 0
+    }
+]

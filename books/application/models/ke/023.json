@@ -1,0 +1,303 @@
+[
+    {
+        "_id": "5c1a47bdd6248b0004632bd4",
+        "name": "Kaeris",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a47dad6248b0004632bd5",
+        "name": "Kaikor",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a47e6d6248b0004632bd6",
+        "name": "Kakuma",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a47f1d6248b0004632bd7",
+        "name": "Kalobeyei",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a47fbd6248b0004632bd8",
+        "name": "Kataboi",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4806d6248b0004632bd9",
+        "name": "Kibish",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4811d6248b0004632bda",
+        "name": "Kokuro",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a481dd6248b0004632bdb",
+        "name": "Lokichoggio",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a482ad6248b0004632bdc",
+        "name": "Lokitaung",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4834d6248b0004632bdd",
+        "name": "Lorau",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a483ed6248b0004632bde",
+        "name": "Loreng",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4849d6248b0004632bdf",
+        "name": "Loruth Esekon",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4852d6248b0004632be0",
+        "name": "Meyan",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a485dd6248b0004632be1",
+        "name": "Naita",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4868d6248b0004632be2",
+        "name": "Nanaam",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4873d6248b0004632be3",
+        "name": "Ngissiger",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a487ed6248b0004632be4",
+        "name": "Songot",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4888d6248b0004632be5",
+        "name": "Yapakuno",
+        "constituency": "Turkana North",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4929d6248b0004632be6",
+        "name": "Kanamkemer",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4935d6248b0004632be7",
+        "name": "Kawalase",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a493fd6248b0004632be8",
+        "name": "Kenyatta",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a494ad6248b0004632be9",
+        "name": "Nakwanga",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4954d6248b0004632bea",
+        "name": "Napetet",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4960d6248b0004632beb",
+        "name": "Napuu",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a496ad6248b0004632bec",
+        "name": "Kalokol",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4974d6248b0004632bed",
+        "name": "Kang'atotha",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a497fd6248b0004632bee",
+        "name": "Kerio",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4989d6248b0004632bef",
+        "name": "Kotaruk",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4994d6248b0004632bf0",
+        "name": "Loima",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a499fd6248b0004632bf1",
+        "name": "Lomeyan",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a49aad6248b0004632bf2",
+        "name": "Lorengippi",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a49b7d6248b0004632bf3",
+        "name": "Lorugum",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a49c2d6248b0004632bf4",
+        "name": "Nadapal",
+        "constituency": "Turkana Central",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a49f7d6248b0004632bf5",
+        "name": "Kapedo",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a02d6248b0004632bf6",
+        "name": "Kaputir",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a0dd6248b0004632bf7",
+        "name": "Katilu",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a19d6248b0004632bf8",
+        "name": "Kochodin",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a24d6248b0004632bf9",
+        "name": "Lobokat",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a2fd6248b0004632bfa",
+        "name": "Lokichar",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a3cd6248b0004632bfb",
+        "name": "Lokori",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a46d6248b0004632bfc",
+        "name": "Napeitom",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a51d6248b0004632bfd",
+        "name": "Kalapata",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4a5ed6248b0004632bfe",
+        "name": "Katilia",
+        "constituency": "Turkana South",
+        "county": "Turkana",
+        "__v": 0
+    }
+]

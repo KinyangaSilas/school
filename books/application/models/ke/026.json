@@ -1,0 +1,212 @@
+[
+    {
+        "_id": "5c1a50b7d6248b0004632c4e",
+        "name": "Chepchoina",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a50c4d6248b0004632c4f",
+        "name": "Kaibei",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a50ded6248b0004632c50",
+        "name": "Kaisagat",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a50e7d6248b0004632c51",
+        "name": "Kapomboi",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a50f0d6248b0004632c52",
+        "name": "Kapsitwet",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a50f9d6248b0004632c53",
+        "name": "Kwanza",
+        "constituency": "Kwanza",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5159d6248b0004632c54",
+        "name": "Hospital",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a517ed6248b0004632c55",
+        "name": "Kibomet",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5188d6248b0004632c56",
+        "name": "Kiminini",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5196d6248b0004632c57",
+        "name": "Kinyoro",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a519fd6248b0004632c58",
+        "name": "Kipsongo",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51a8d6248b0004632c59",
+        "name": "Kisawai",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51b0d6248b0004632c5a",
+        "name": "Lessos",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51b8d6248b0004632c5b",
+        "name": "Machewa",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51c1d6248b0004632c5c",
+        "name": "Masaba",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51c9d6248b0004632c5d",
+        "name": "Matisi",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51d2d6248b0004632c5e",
+        "name": "Milimani",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51ddd6248b0004632c5f",
+        "name": "Mumia",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51e6d6248b0004632c60",
+        "name": "Saboti",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51f0d6248b0004632c61",
+        "name": "Sokoni",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a51f9d6248b0004632c62",
+        "name": "Tuwani",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5202d6248b0004632c63",
+        "name": "Waitaluk",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a520ed6248b0004632c64",
+        "name": "Webuye",
+        "constituency": "Saboti",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5251d6248b0004632c65",
+        "name": "Cherang'any",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a525ed6248b0004632c66",
+        "name": "Kalama",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5268d6248b0004632c67",
+        "name": "Chepsiro",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5273d6248b0004632c68",
+        "name": "Sinyerere",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a527ed6248b0004632c69",
+        "name": "Sitatunga",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5287d6248b0004632c6a",
+        "name": "Motosiet",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5290d6248b0004632c6b",
+        "name": "Makutano",
+        "constituency": "Cherangany",
+        "county": "Trans-Nzoia",
+        "__v": 0
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "_id": "5c1a3aebd6248b0004632b4a",
+        "name": "Kinyaga",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3af3d6248b0004632b4b",
+        "name": "Kutus South",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3afdd6248b0004632b4c",
+        "name": "Kangai",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b07d6248b0004632b4d",
+        "name": "Murinduko",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b10d6248b0004632b4e",
+        "name": "Mutithi",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b1bd6248b0004632b4f",
+        "name": "Nyangati",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b25d6248b0004632b50",
+        "name": "Tebere",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b2fd6248b0004632b51",
+        "name": "Thiba",
+        "constituency": "Mwea",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b5bd6248b0004632b52",
+        "name": "Baragwi",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b65d6248b0004632b53",
+        "name": "Kabare",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b70d6248b0004632b54",
+        "name": "Karumandi",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b79d6248b0004632b55",
+        "name": "Kirima",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b84d6248b0004632b56",
+        "name": "Kutus Central",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3b97d6248b0004632b57",
+        "name": "Ngariama",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3ba1d6248b0004632b58",
+        "name": "Njuki-ini",
+        "constituency": "Gichugu",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3bd6d6248b0004632b59",
+        "name": "Gacharu",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3be0d6248b0004632b5a",
+        "name": "Karima",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3bead6248b0004632b5b",
+        "name": "Kathaka",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3bf8d6248b0004632b5c",
+        "name": "Kariti",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3c03d6248b0004632b5d",
+        "name": "Kiine",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3c0ed6248b0004632b5e",
+        "name": "Mukure",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3c18d6248b0004632b5f",
+        "name": "Mwerua",
+        "constituency": "Ndia",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3c51d6248b0004632b60",
+        "name": "Kerugoya Central",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3c5ed6248b0004632b61",
+        "name": "Kerugoya North",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3d1cd6248b0004632b62",
+        "name": "Kerugoya North",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3d95d6248b0004632b63",
+        "name": "Nduini",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3da0d6248b0004632b64",
+        "name": "Inoi",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3dacd6248b0004632b65",
+        "name": "Kanyeki-ine",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3db7d6248b0004632b66",
+        "name": "Kerugoya South",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3dc2d6248b0004632b67",
+        "name": "Muruana",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3dcdd6248b0004632b68",
+        "name": "Mutira",
+        "constituency": "Kirinyaga Central",
+        "county": "Kirinyaga",
+        "__v": 0
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "_id": "5c1a2fcfd6248b0004632ab8",
+        "name": "Ekalakala",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2fe7d6248b0004632ab9",
+        "name": "Kangonde",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ff1d6248b0004632aba",
+        "name": "Kithyoko",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ffcd6248b0004632abb",
+        "name": "Kivaa",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3006d6248b0004632abc",
+        "name": "Masinga",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3011d6248b0004632abd",
+        "name": "Muthesya",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a301fd6248b0004632abe",
+        "name": "Ndithini",
+        "constituency": "Masinga",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a305ad6248b0004632abf",
+        "name": "Kithimani",
+        "constituency": "Yatta",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3064d6248b0004632ac0",
+        "name": "Matuu",
+        "constituency": "Yatta",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a306ed6248b0004632ac1",
+        "name": "Ikombe",
+        "constituency": "Yatta",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3078d6248b0004632ac2",
+        "name": "Katangi",
+        "constituency": "Yatta",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3081d6248b0004632ac3",
+        "name": "Ndalani",
+        "constituency": "Yatta",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30a7d6248b0004632ac4",
+        "name": "Kangundo East",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30b3d6248b0004632ac5",
+        "name": "Kangundo North",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30bed6248b0004632ac6",
+        "name": "Kangundo West",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30c8d6248b0004632ac7",
+        "name": "Matungulu East",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30d2d6248b0004632ac8",
+        "name": "Matungulu North",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a30ddd6248b0004632ac9",
+        "name": "Matungulu West",
+        "constituency": "Kangundo",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3117d6248b0004632aca",
+        "name": "Tala",
+        "constituency": "Matungulu",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3123d6248b0004632acb",
+        "name": "Matungulu North",
+        "constituency": "Matungulu",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3162d6248b0004632acc",
+        "name": "Matungulu East",
+        "constituency": "Matungulu",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a316fd6248b0004632acd",
+        "name": "Matungulu West",
+        "constituency": "Matungulu",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a317cd6248b0004632ace",
+        "name": "Kyeleni",
+        "constituency": "Matungulu",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31b9d6248b0004632acf",
+        "name": "Athi River West",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31c4d6248b0004632ad0",
+        "name": "Iveti",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31ced6248b0004632ad1",
+        "name": "Kaewa",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31d9d6248b0004632ad2",
+        "name": "Katani",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31e3d6248b0004632ad3",
+        "name": "Kathiani",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31f1d6248b0004632ad4",
+        "name": "Kinanie",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a31fbd6248b0004632ad5",
+        "name": "Makadara",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3205d6248b0004632ad6",
+        "name": "Mitaboni",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3212d6248b0004632ad7",
+        "name": "Muthwani",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a321dd6248b0004632ad8",
+        "name": "Sophia",
+        "constituency": "Kathiani",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a326bd6248b0004632ad9",
+        "name": "Kalama",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3276d6248b0004632ada",
+        "name": "Mua",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a327fd6248b0004632adb",
+        "name": "Mutituni",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a328ad6248b0004632adc",
+        "name": "Kiima-Kimwe",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a329ed6248b0004632add",
+        "name": "Machakos Central",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a32aad6248b0004632ade",
+        "name": "Mumbuni North",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a32b7d6248b0004632adf",
+        "name": "Kola",
+        "constituency": "Machakos Town",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a32e6d6248b0004632ae0",
+        "name": "Kibauni",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a32f5d6248b0004632ae1",
+        "name": "Masii",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3300d6248b0004632ae2",
+        "name": "Mbiuni",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a330bd6248b0004632ae3",
+        "name": "Muthetheni",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3316d6248b0004632ae4",
+        "name": "Mwala",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3321d6248b0004632ae5",
+        "name": "Vyulya",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a332dd6248b0004632ae6",
+        "name": "Wamunyu",
+        "constituency": "Mwala",
+        "county": "Machakos",
+        "__v": 0
+    }
+]

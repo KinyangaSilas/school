@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<!------ Include the above in your HEAD tag ---------->
+
+  <title>Payment Page</title>
+  <style type="text/css">
+    
+.four { width: 32.26%; max-width: 32.26%; border-radius: 50px;}
+
+
+/* COLUMNS */
+
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+
+.col:first-of-type { margin-left: 0; }
+
+/* CLEARFIX */
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+
+/* FORM */
+
+.form .plan input, .form .payment-plan input, .form .payment-type input{
+  display: none;
+}
+
+.form label{
+  position: relative;
+  color: #fff;
+  background-color: #aaa;
+  font-size: 26px;
+  text-align: center;
+  height: 150px;
+  line-height: 150px;
+  display: block;
+  cursor: pointer;
+  border: 3px solid transparent;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.form .plan input:checked + label, .form .payment-plan input:checked + label, .form .payment-type input:checked + label{
+  border: 3px solid #333;
+  background-color: #2fcc71;
+}
+
+.form .plan input:checked + label:after, form .payment-plan input:checked + label:after, .form .payment-type input:checked + label:after{
+  content: "\2713";
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 100%;
+  border: 2px solid #333;
+  background-color: #2fcc71;
+  z-index: 999;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+.submit{
+  padding: 15px 60px;
+  display: inline-block;
+  border: none;
+  margin: 20px 0;
+  background-color: #2fcc71;
+  color: #fff;
+  border: 2px solid #333;
+  font-size: 18px;
+  -webkit-transition: transform 0.3s ease-in-out;
+  -o-transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+
+.submit:hover{
+  cursor: pointer;
+  transform: rotateX(360deg);
+}
+input{
+  border-radius: 50px;
+  }
+  .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.human-heart {
+  margin: 5em;
+  animation: .8s infinite beatHeart;
+}
+
+@keyframes beatHeart {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+//success modal
+
+.thank-you-pop{
+  width:100%;
+  padding:20px;
+  text-align:center;
+}
+.thank-you-pop img{
+  width:76px;
+  height:auto;
+  margin:0 auto;
+  display:block;
+  margin-bottom:25px;
+}
+
+.thank-you-pop h1{
+  font-size: 42px;
+    margin-bottom: 25px;
+  color:#5C5C5C;
+}
+.thank-you-pop p{
+  font-size: 20px;
+    margin-bottom: 27px;
+  color:#5C5C5C;
+}
+.thank-you-pop h3.cupon-pop{
+  font-size: 25px;
+    margin-bottom: 40px;
+  color:#222;
+  display:inline-block;
+  text-align:center;
+  padding:10px 20px;
+  border:2px dashed #222;
+  clear:both;
+  font-weight:normal;
+}
+.thank-you-pop h3.cupon-pop span{
+  color:#03A9F4;
+}
+.thank-you-pop a{
+  display: inline-block;
+    margin: 0 auto;
+    padding: 9px 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: #8BC34A;
+    border-radius: 17px;
+}
+.thank-you-pop a i{
+  margin-right:5px;
+  color:#fff;
+}
+
+
+  </style>
+</head>
+<body>
+<div class="container" id="work">
+  <div class="row">
+        <h1>Checkout Form</h1>
+    <form class="form cf" id="pay">
+<!--       <section class="plan cf">
+        <h2>Choose a plan:</h2>
+        <input type="radio" name="radio1" id="free" value="free"><label class="free-label four col" for="free">Free</label>
+        <input type="radio" name="radio1" id="basic" value="basic" checked><label class="basic-label four col" for="basic">Basic</label>
+        <input type="radio" name="radio1" id="premium" value="premium"><label class="premium-label four col" for="premium">Premium</label>
+      </section> -->
+<!--       <section class="payment-plan cf">
+        <h2>Select a payment plan:</h2>
+        <input type="radio" name="radio2" id="monthly" value="monthly" checked><label class="monthly-label four col" for="monthly">Monthly</label>
+        <input type="radio" name="radio2" id="yearly" value="yearly"><label class="yearly-label four col" for="yearly">Yearly</label>
+      </section> -->
+      <section class="payment-type cf" id="paymentId">
+        <h2>Select a payment type:</h2>
+        <input type="radio" name="radio3" id="credit" value="credit" disabled=""><label class="credit-label four col" for="credit">Credit Card</label>
+        <input type="radio" name="radio3" id="debit" value="debit" disabled=""><label class="debit-label four col" for="debit">Debit Card</label>
+        <input type="radio" name="radio3" id="paypal" value="paypal" disabled><label class="paypal-label four col" for="paypal">Paypal</label>
+        <input type="radio" name="radio3" id="mpesaid" value="Mpesa" checked><label class="paypal-label four col" for="paypal"> Mpesa</label>
+      </section>  
+      <input class="submit" type="submit" value="Submit">   
+    </form>
+  </div>
+</div>
+  <div class="container" style="display: none;" id="payProcessing">
+    <h1>Processing...</h1>
+  <img src="https://mpasho254.files.wordpress.com/2018/11/mpesa.png" class="human-heart" alt="human heart" />
+</div>
+
+
+<!-- <div class="alert alert-success">
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+
+
+
+
+ -->
+ <div class="container text-center">
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label=""><span>&times;</span></button>
+                     </div>
+        <div class="modal-body">
+
+
+            <div class="thank-you-pop">
+              <img src="http://goactionstations.co.uk/wp-content/uploads/2017/03/Green-Round-Tick.png" alt="">
+              <h1>Thank You!</h1>
+              <p>Your submission is received and we will contact you soon</p>
+              <h3 class="cupon-pop">Your Id: <span>12345</span></h3>
+              
+            </div>
+
+
+
+
+
+<!-- <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Cancel</button> -->
+
+        </div>
+<!--         <div class="modal-footer">
+          
+        </div> -->
+      </div>
+      
+    </div>
+  </div> 
+</div>
+ 
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$("#pay").on("submit",function(ev){
+$("#work").hide();
+$.ajax({
+  url:"",
+  beforeSend:function(){
+    $("#payProcessing").slideToggle(3000);
+  },
+  success:function(data){
+    // 
+    setTimeout(function(){
+      $("#myModal").modal();
+      $("#payProcessing").slideToggle();
+      setTimeout(function(){
+      $('#myModal').modal('hide')
+      }, 1000);
+    },5000);
+  },
+  fail:function(error){
+    alert("Failed");
+    console.log(error);
+  }
+
+});
+ev.preventDefault();
+});
+</script>
+
+</body>
+</html>

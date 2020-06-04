@@ -1,0 +1,177 @@
+[
+    {
+        "_id": "5c1a0f73d6248b000463298e",
+        "name": "Waberi",
+        "constituency": "Garissa Township",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a0f93d6248b000463298f",
+        "name": "Galbet",
+        "constituency": "Garissa Township",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a0f9dd6248b0004632990",
+        "name": "Township",
+        "constituency": "Garissa Township",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a0fa8d6248b0004632991",
+        "name": "Iftin",
+        "constituency": "Garissa Township",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a0ff4d6248b0004632992",
+        "name": "Abakaile",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a100ad6248b0004632993",
+        "name": "Alango-Arba",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1015d6248b0004632994",
+        "name": "Benane",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a101fd6248b0004632995",
+        "name": "Dadaab",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1028d6248b0004632996",
+        "name": "Dagahaley",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1032d6248b0004632997",
+        "name": "Damajale",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a103cd6248b0004632998",
+        "name": "Garufa",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1046d6248b0004632999",
+        "name": "Goreale",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a104fd6248b000463299a",
+        "name": "Liboi",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a105bd6248b000463299b",
+        "name": "Modogashe",
+        "constituency": "Lagdera",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10acd6248b000463299c",
+        "name": "Bura",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10b5d6248b000463299d",
+        "name": "Fafi",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10bed6248b000463299e",
+        "name": "Jara Jila",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10cad6248b000463299f",
+        "name": "Masabubu",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10d6d6248b00046329a0",
+        "name": "Nanighi",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a10dfd6248b00046329a1",
+        "name": "Welmerer",
+        "constituency": "Fafi",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a111ad6248b00046329a2",
+        "name": "Ijara",
+        "constituency": "Ijara",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1124d6248b00046329a3",
+        "name": "Korisa",
+        "constituency": "Ijara",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1134d6248b00046329a4",
+        "name": "Kotile",
+        "constituency": "Ijara",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1144d6248b00046329a5",
+        "name": "Masalani",
+        "constituency": "Ijara",
+        "county": "Garissa",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a114fd6248b00046329a6",
+        "name": "Sangailu",
+        "constituency": "Ijara",
+        "county": "Garissa",
+        "__v": 0
+    }
+]

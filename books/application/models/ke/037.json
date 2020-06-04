@@ -1,0 +1,394 @@
+[
+    {
+        "_id": "5c1b63c08a6e0a0004a71b1a",
+        "name": "Chekalini",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63cb8a6e0a0004a71b1b",
+        "name": "Kongoni",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63da8a6e0a0004a71b1c",
+        "name": "Likuyani",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63e38a6e0a0004a71b1d",
+        "name": "Lugari",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63eb8a6e0a0004a71b1e",
+        "name": "Lumakanda",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63f88a6e0a0004a71b1f",
+        "name": "Mautuma",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64008a6e0a0004a71b20",
+        "name": "Nzoia",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64088a6e0a0004a71b21",
+        "name": "Sinoko",
+        "constituency": "Lugari",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64758a6e0a0004a71b22",
+        "name": "Chemuche",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64968a6e0a0004a71b23",
+        "name": "Butali",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b649f8a6e0a0004a71b24",
+        "name": "Chegulo",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64a88a6e0a0004a71b25",
+        "name": "Mahira",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64af8a6e0a0004a71b26",
+        "name": "Mugai",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64b78a6e0a0004a71b27",
+        "name": "Shivanga",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64c08a6e0a0004a71b28",
+        "name": "South Kabras Rural",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b64cb8a6e0a0004a71b29",
+        "name": "West Kabras",
+        "constituency": "Malava",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b651c8a6e0a0004a71b2a",
+        "name": "Amalemba",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b652a8a6e0a0004a71b2b",
+        "name": "Bukhulunya",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65468a6e0a0004a71b2c",
+        "name": "Central",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b654d8a6e0a0004a71b2d",
+        "name": "Mahiakalo",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65558a6e0a0004a71b2e",
+        "name": "Maraba",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b655c8a6e0a0004a71b2f",
+        "name": "Matende",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65628a6e0a0004a71b30",
+        "name": "Milimani",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b656a8a6e0a0004a71b31",
+        "name": "Musaa",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65718a6e0a0004a71b32",
+        "name": "Shibiriri",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b657b8a6e0a0004a71b33",
+        "name": "Sichilayi",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65828a6e0a0004a71b34",
+        "name": "Bukura",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b658e8a6e0a0004a71b35",
+        "name": "Bunyala West",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65998a6e0a0004a71b36",
+        "name": "Navakholo",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65a28a6e0a0004a71b37",
+        "name": "North Butsotso",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65ad8a6e0a0004a71b38",
+        "name": "South Butsotso",
+        "constituency": "Lurambi",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b65fb8a6e0a0004a71b39",
+        "name": "Khalaba",
+        "constituency": "Matungu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66048a6e0a0004a71b3a",
+        "name": "Kholera",
+        "constituency": "Matungu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b660d8a6e0a0004a71b3b",
+        "name": "Koyonzo",
+        "constituency": "Matungu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66158a6e0a0004a71b3c",
+        "name": "Namamali",
+        "constituency": "Matungu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b661e8a6e0a0004a71b3d",
+        "name": "Mayoni",
+        "constituency": "Matungu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b665b8a6e0a0004a71b3e",
+        "name": "Butere Township",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66688a6e0a0004a71b3f",
+        "name": "Central Marama",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66748a6e0a0004a71b40",
+        "name": "Marenyo",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b667d8a6e0a0004a71b41",
+        "name": "North Marama",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b668a8a6e0a0004a71b42",
+        "name": "Manyala and Masaba",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66948a6e0a0004a71b43",
+        "name": "West Marama",
+        "constituency": "Butere",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b66b78a6e0a0004a71b44",
+        "name": "Central Kisa",
+        "constituency": "Khwisero",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67508a6e0a0004a71b45",
+        "name": "Mulwanda",
+        "constituency": "Khwisero",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b675b8a6e0a0004a71b46",
+        "name": "North Kisa",
+        "constituency": "Khwisero",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67658a6e0a0004a71b47",
+        "name": "East Kisa",
+        "constituency": "Khwisero",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b677e8a6e0a0004a71b48",
+        "name": "West Kisa",
+        "constituency": "Khwisero",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67c38a6e0a0004a71b49",
+        "name": "Isukha West",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67ce8a6e0a0004a71b4a",
+        "name": "Isukha East",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67e68a6e0a0004a71b4b",
+        "name": "Isukha North",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67f18a6e0a0004a71b4c",
+        "name": "Isukha South",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b67fb8a6e0a0004a71b4d",
+        "name": "Murhanda",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68058a6e0a0004a71b4e",
+        "name": "Isukha Central",
+        "constituency": "Shinyalu",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b682a8a6e0a0004a71b4f",
+        "name": "Eregi",
+        "constituency": "Ikolomani",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b68328a6e0a0004a71b50",
+        "name": "Iguhu",
+        "constituency": "Ikolomani",
+        "county": "Kakamega",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b683a8a6e0a0004a71b51",
+        "name": "Isulu",
+        "constituency": "Ikolomani",
+        "county": "Kakamega",
+        "__v": 0
+    }
+]

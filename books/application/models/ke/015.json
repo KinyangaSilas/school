@@ -1,0 +1,338 @@
+[
+    {
+        "_id": "5c1a2c12d6248b0004632a88",
+        "name": "Kakuyu",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c33d6248b0004632a89",
+        "name": "Kanzanzu",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c42d6248b0004632a8a",
+        "name": "Katse",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c4cd6248b0004632a8b",
+        "name": "Kimangau",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c57d6248b0004632a8c",
+        "name": "Kivou",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c64d6248b0004632a8d",
+        "name": "Kyuso",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c70d6248b0004632a8e",
+        "name": "Masyungwa",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c7bd6248b0004632a8f",
+        "name": "Mitamisyi",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c86d6248b0004632a90",
+        "name": "Mwingi",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c90d6248b0004632a91",
+        "name": "Nguni",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2c9dd6248b0004632a92",
+        "name": "Kanthungu",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2cabd6248b0004632a93",
+        "name": "Tseikuru",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2cb7d6248b0004632a94",
+        "name": "Waita",
+        "constituency": "Mwingi North",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d2cd6248b0004632a95",
+        "name": "Kalimani",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d37d6248b0004632a96",
+        "name": "Kithumula",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d46d6248b0004632a97",
+        "name": "Kanyangi",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d52d6248b0004632a98",
+        "name": "Katutu",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d5dd6248b0004632a99",
+        "name": "Kivani",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d6ad6248b0004632a9a",
+        "name": "Kwa-Vonza",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d76d6248b0004632a9b",
+        "name": "Kwa Mutonga",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d83d6248b0004632a9c",
+        "name": "Musengo",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2d98d6248b0004632a9d",
+        "name": "Mutonguni",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2da8d6248b0004632a9e",
+        "name": "Yatta",
+        "constituency": "Kitui West",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2dd0d6248b0004632a9f",
+        "name": "Kisasi",
+        "constituency": "Kitui Rural",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ddbd6248b0004632aa0",
+        "name": "Mbitini",
+        "constituency": "Kitui Rural",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2dedd6248b0004632aa1",
+        "name": "Kwa Vonza",
+        "constituency": "Kitui Rural",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2df8d6248b0004632aa2",
+        "name": "Kanyangi",
+        "constituency": "Kitui Rural",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e36d6248b0004632aa3",
+        "name": "Itoleka",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e43d6248b0004632aa4",
+        "name": "Kisasi",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e53d6248b0004632aa5",
+        "name": "Kitui Township",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e60d6248b0004632aa6",
+        "name": "Kyangwithya East",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e6bd6248b0004632aa7",
+        "name": "Kyangwithya West",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e78d6248b0004632aa8",
+        "name": "Maliku",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e82d6248b0004632aa9",
+        "name": "Miambani",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2e8bd6248b0004632aaa",
+        "name": "Mulango",
+        "constituency": "Kitui Central",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ed0d6248b0004632aab",
+        "name": "Kyanika",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2edad6248b0004632aac",
+        "name": "Malalani",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ee4d6248b0004632aad",
+        "name": "Mutitu",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ef0d6248b0004632aae",
+        "name": "Mwitika",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2efbd6248b0004632aaf",
+        "name": "Sombe",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f08d6248b0004632ab0",
+        "name": "Thua",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f12d6248b0004632ab1",
+        "name": "Voo",
+        "constituency": "Kitui East",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f44d6248b0004632ab2",
+        "name": "Ikanga",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f4ed6248b0004632ab3",
+        "name": "Ikutha",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f59d6248b0004632ab4",
+        "name": "Kanziko",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f64d6248b0004632ab5",
+        "name": "Maluma",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f6fd6248b0004632ab6",
+        "name": "Mutha",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2f7bd6248b0004632ab7",
+        "name": "Mutomo",
+        "constituency": "Kitui South",
+        "county": "Kitui",
+        "__v": 0
+    }
+]

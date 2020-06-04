@@ -1,0 +1,177 @@
+[
+    {
+        "_id": "5c1a1410d6248b00046329ca",
+        "name": "Banissa",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a142bd6248b00046329cb",
+        "name": "Dandu",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1434d6248b00046329cc",
+        "name": "Derkale",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1444d6248b00046329cd",
+        "name": "Gither",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a144dd6248b00046329ce",
+        "name": "Guba",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1463d6248b00046329cf",
+        "name": "Malkamari",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a146fd6248b00046329d0",
+        "name": "Takaba North",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a147ed6248b00046329d1",
+        "name": "Takaba South",
+        "constituency": "Mandera West",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a14f2d6248b00046329d2",
+        "name": "Barwako",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a14fed6248b00046329d3",
+        "name": "Border Point One",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a150ad6248b00046329d4",
+        "name": "Bula Mpya",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a151cd6248b00046329d5",
+        "name": "Bulla Jamhuria",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1526d6248b00046329d6",
+        "name": "Neboi",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1531d6248b00046329d7",
+        "name": "Shaf Shafey",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a153cd6248b00046329d8",
+        "name": "Township Kamoro",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1548d6248b00046329d9",
+        "name": "Alango Gof",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1552d6248b00046329da",
+        "name": "Arabia",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a155dd6248b00046329db",
+        "name": "Bur Abor",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1568d6248b00046329dc",
+        "name": "Fino",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1578d6248b00046329dd",
+        "name": "Hareri",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1584d6248b00046329de",
+        "name": "Kalaliyo East",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a158fd6248b00046329df",
+        "name": "Kalaliyo West",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a159bd6248b00046329e0",
+        "name": "Lafey",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a15a4d6248b00046329e1",
+        "name": "Libehia",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a15aed6248b00046329e2",
+        "name": "Waranqara",
+        "constituency": "Mandera East",
+        "county": "Mandera",
+        "__v": 0
+    }
+]

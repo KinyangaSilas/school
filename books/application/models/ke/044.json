@@ -1,0 +1,184 @@
+[
+    {
+        "_id": "5c1b7d748a6e0a0004a71c3f",
+        "name": "Central Kamagambo",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7da08a6e0a0004a71c40",
+        "name": "East Kamagambo",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7dab8a6e0a0004a71c41",
+        "name": "North Kamagambo",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7db68a6e0a0004a71c42",
+        "name": "South Kamagambo",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7dc18a6e0a0004a71c43",
+        "name": "West Kamagambo",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7dcd8a6e0a0004a71c44",
+        "name": "South Sakwa",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7dd58a6e0a0004a71c45",
+        "name": "Central Sakwa",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7de08a6e0a0004a71c46",
+        "name": "East Sakwa",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7de98a6e0a0004a71c47",
+        "name": "North Sakwa",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7df28a6e0a0004a71c48",
+        "name": "West Sakwa",
+        "constituency": "Rongo",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7e578a6e0a0004a71c49",
+        "name": "Central Kanyamkago",
+        "constituency": "Uriri",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7e628a6e0a0004a71c4a",
+        "name": "East Kanyamkago",
+        "constituency": "Uriri",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7e6c8a6e0a0004a71c4b",
+        "name": "North Kanyamkago",
+        "constituency": "Uriri",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7e768a6e0a0004a71c4c",
+        "name": "South Kanyamkago",
+        "constituency": "Uriri",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7e7f8a6e0a0004a71c4d",
+        "name": "West Kanyamkago",
+        "constituency": "Uriri",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7eaa8a6e0a0004a71c4e",
+        "name": "East Kadem",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7eb58a6e0a0004a71c4f",
+        "name": "Got Kachola",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ec08a6e0a0004a71c50",
+        "name": "Kachieng'",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ec98a6e0a0004a71c51",
+        "name": "Kaler",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ed38a6e0a0004a71c52",
+        "name": "Kanyarwanda",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7edb8a6e0a0004a71c53",
+        "name": "Kanyasa",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ee58a6e0a0004a71c54",
+        "name": "Macalder",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7eed8a6e0a0004a71c55",
+        "name": "Muhuru East",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ef98a6e0a0004a71c56",
+        "name": "Muhuru West",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f038a6e0a0004a71c57",
+        "name": "Ndiwa",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f0e8a6e0a0004a71c58",
+        "name": "Nyakwere",
+        "constituency": "Nyatike",
+        "county": "Migori",
+        "__v": 0
+    }
+]

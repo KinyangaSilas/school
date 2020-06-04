@@ -1,0 +1,604 @@
+[
+    {
+        "_id": "5c1b84588a6e0a0004a71cab",
+        "name": "Kitisuru",
+        "constituency": "Westlands",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84778a6e0a0004a71cac",
+        "name": "Parklands",
+        "constituency": "Westlands",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84818a6e0a0004a71cad",
+        "name": "Karura",
+        "constituency": "Westlands",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b848c8a6e0a0004a71cae",
+        "name": "Kangemi",
+        "constituency": "Westlands",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84968a6e0a0004a71caf",
+        "name": "Mountain View",
+        "constituency": "Westlands",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84b38a6e0a0004a71cb0",
+        "name": "Kilimani",
+        "constituency": "Dagoretti North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84c08a6e0a0004a71cb1",
+        "name": "Kawangware",
+        "constituency": "Dagoretti North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84d58a6e0a0004a71cb2",
+        "name": "Gatina",
+        "constituency": "Dagoretti North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84e18a6e0a0004a71cb3",
+        "name": "Kileleshwa",
+        "constituency": "Dagoretti North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b84eb8a6e0a0004a71cb4",
+        "name": "Kabiro",
+        "constituency": "Dagoretti North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85048a6e0a0004a71cb5",
+        "name": "Mutu-ini",
+        "constituency": "Dagoretti South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85118a6e0a0004a71cb6",
+        "name": "Ngand'o",
+        "constituency": "Dagoretti South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85208a6e0a0004a71cb7",
+        "name": "Riruta",
+        "constituency": "Dagoretti South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85288a6e0a0004a71cb8",
+        "name": "Uthiru",
+        "constituency": "Dagoretti South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85318a6e0a0004a71cb9",
+        "name": "Waithaka",
+        "constituency": "Dagoretti South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85488a6e0a0004a71cba",
+        "name": "Karen",
+        "constituency": "Lang'ata",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85548a6e0a0004a71cbb",
+        "name": "Nairobi West",
+        "constituency": "Lang'ata",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85678a6e0a0004a71cbc",
+        "name": "Mugumo-ini",
+        "constituency": "Lang'ata",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85718a6e0a0004a71cbd",
+        "name": "South C",
+        "constituency": "Lang'ata",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85848a6e0a0004a71cbe",
+        "name": "Nyayo Highrise",
+        "constituency": "Lang'ata",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85ad8a6e0a0004a71cbf",
+        "name": "Laini Saba",
+        "constituency": "Kibra",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85be8a6e0a0004a71cc0",
+        "name": "Lindi",
+        "constituency": "Kibra",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85c88a6e0a0004a71cc1",
+        "name": "Makina",
+        "constituency": "Kibra",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85d78a6e0a0004a71cc2",
+        "name": "Woodley",
+        "constituency": "Kibra",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85e28a6e0a0004a71cc3",
+        "name": "Sarang'ombe",
+        "constituency": "Kibra",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b85f68a6e0a0004a71cc4",
+        "name": "Githurai",
+        "constituency": "Roysambu",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86018a6e0a0004a71cc5",
+        "name": "Kahawa West",
+        "constituency": "Roysambu",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b860c8a6e0a0004a71cc6",
+        "name": "Zimmerman",
+        "constituency": "Roysambu",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86158a6e0a0004a71cc7",
+        "name": "Roysambu",
+        "constituency": "Roysambu",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b861c8a6e0a0004a71cc8",
+        "name": "Kahawa",
+        "constituency": "Roysambu",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86448a6e0a0004a71cc9",
+        "name": "Clay City",
+        "constituency": "Kasarani",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b864f8a6e0a0004a71cca",
+        "name": "Mwiki",
+        "constituency": "Kasarani",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b865c8a6e0a0004a71ccb",
+        "name": "Kasarani",
+        "constituency": "Kasarani",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86718a6e0a0004a71ccc",
+        "name": "Njiru",
+        "constituency": "Kasarani",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b867d8a6e0a0004a71ccd",
+        "name": "Ruai",
+        "constituency": "Kasarani",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86908a6e0a0004a71cce",
+        "name": "Babadogo",
+        "constituency": "Ruaraka",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b869a8a6e0a0004a71ccf",
+        "name": "Utalii",
+        "constituency": "Ruaraka",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86a58a6e0a0004a71cd0",
+        "name": "Mathare North",
+        "constituency": "Ruaraka",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86b28a6e0a0004a71cd1",
+        "name": "Lucky Summer",
+        "constituency": "Ruaraka",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86bc8a6e0a0004a71cd2",
+        "name": "Korogocho",
+        "constituency": "Ruaraka",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86d68a6e0a0004a71cd3",
+        "name": "Imara Daima",
+        "constituency": "Embakasi South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86e48a6e0a0004a71cd4",
+        "name": "Kwa Njenga",
+        "constituency": "Embakasi South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86ef8a6e0a0004a71cd5",
+        "name": "Kwa Reuben",
+        "constituency": "Embakasi South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b86fe8a6e0a0004a71cd6",
+        "name": "Pipeline",
+        "constituency": "Embakasi South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87088a6e0a0004a71cd7",
+        "name": "Kware",
+        "constituency": "Embakasi South",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87298a6e0a0004a71cd8",
+        "name": "Kariobangi North",
+        "constituency": "Embakasi North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87348a6e0a0004a71cd9",
+        "name": "Dandora Area I",
+        "constituency": "Embakasi North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b873f8a6e0a0004a71cda",
+        "name": "Dandora Area II",
+        "constituency": "Embakasi North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b874b8a6e0a0004a71cdb",
+        "name": "Dandora Area III",
+        "constituency": "Embakasi North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87568a6e0a0004a71cdc",
+        "name": "Dandora Area IV",
+        "constituency": "Embakasi North",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b877a8a6e0a0004a71cdd",
+        "name": "Kayole North",
+        "constituency": "Embakasi Central",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87888a6e0a0004a71cde",
+        "name": "Kayole Central",
+        "constituency": "Embakasi Central",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87938a6e0a0004a71cdf",
+        "name": "Kayole South",
+        "constituency": "Embakasi Central",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87a48a6e0a0004a71ce0",
+        "name": "Komarock",
+        "constituency": "Embakasi Central",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87b98a6e0a0004a71ce1",
+        "name": "Spring Valley",
+        "constituency": "Embakasi Central",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87dd8a6e0a0004a71ce2",
+        "name": "Upper Savanna",
+        "constituency": "Embakasi East",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87e98a6e0a0004a71ce3",
+        "name": "Lower Savanna",
+        "constituency": "Embakasi East",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87f48a6e0a0004a71ce4",
+        "name": "Embakasi",
+        "constituency": "Embakasi East",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b87fd8a6e0a0004a71ce5",
+        "name": "Utawala",
+        "constituency": "Embakasi East",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88068a6e0a0004a71ce6",
+        "name": "Mihang'o",
+        "constituency": "Embakasi East",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88208a6e0a0004a71ce7",
+        "name": "Umoja I",
+        "constituency": "Embakasi West",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b882a8a6e0a0004a71ce8",
+        "name": "Umoja II",
+        "constituency": "Embakasi West",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88358a6e0a0004a71ce9",
+        "name": "Mowlem",
+        "constituency": "Embakasi West",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88498a6e0a0004a71cea",
+        "name": "Kariobangi South",
+        "constituency": "Embakasi West",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88648a6e0a0004a71ceb",
+        "name": "Makongeni",
+        "constituency": "Makadara",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88738a6e0a0004a71cec",
+        "name": "Maringo",
+        "constituency": "Makadara",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b887e8a6e0a0004a71ced",
+        "name": "Harambee",
+        "constituency": "Makadara",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88888a6e0a0004a71cee",
+        "name": "Viwandani",
+        "constituency": "Makadara",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88ae8a6e0a0004a71cef",
+        "name": "Pumwani",
+        "constituency": "Kamukunji",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88c18a6e0a0004a71cf0",
+        "name": "Eastleigh North",
+        "constituency": "Kamukunji",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88cd8a6e0a0004a71cf1",
+        "name": "Eastleigh South",
+        "constituency": "Kamukunji",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88f08a6e0a0004a71cf2",
+        "name": "Airbase",
+        "constituency": "Kamukunji",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b88f98a6e0a0004a71cf3",
+        "name": "California",
+        "constituency": "Kamukunji",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b891d8a6e0a0004a71cf4",
+        "name": "Nairobi Central",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b892c8a6e0a0004a71cf5",
+        "name": "Ngara",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89378a6e0a0004a71cf6",
+        "name": "Kariokor",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89438a6e0a0004a71cf7",
+        "name": "Pangani",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89508a6e0a0004a71cf8",
+        "name": "Landimawe",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b895b8a6e0a0004a71cf9",
+        "name": "Nairobi South",
+        "constituency": "Starehe",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b896e8a6e0a0004a71cfa",
+        "name": "Hospital",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89788a6e0a0004a71cfb",
+        "name": "Mabatini",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89838a6e0a0004a71cfc",
+        "name": "Huruma",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b898e8a6e0a0004a71cfd",
+        "name": "Ngei",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89978a6e0a0004a71cfe",
+        "name": "Mlango Kubwa",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b89a18a6e0a0004a71cff",
+        "name": "Kiamaiko",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    },
+    {
+        "_id": "5c2526b66868e1000405c16f",
+        "name": "Kiamaiko",
+        "constituency": "Mathare",
+        "county": "Nairobi",
+        "__v": 0
+    }
+]

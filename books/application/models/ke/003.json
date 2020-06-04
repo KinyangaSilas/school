@@ -1,0 +1,317 @@
+[
+    {
+        "_id": "5c19f83318578a0004053a53",
+        "name": "Tezo",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f85c18578a0004053a54",
+        "name": "Sokoni",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f86b18578a0004053a55",
+        "name": "Kibarani",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f8d518578a0004053a56",
+        "name": "Dabaso",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f8e518578a0004053a57",
+        "name": "Matsangoni",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f8f318578a0004053a58",
+        "name": "Watamu",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19f8ff18578a0004053a59",
+        "name": "Mnarani",
+        "constituency": "Kilifi North",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa3f18578a0004053a5a",
+        "name": "Jibana",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa5418578a0004053a5b",
+        "name": "Kaliangombe",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa6118578a0004053a5c",
+        "name": "Kaloleni",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa8618578a0004053a5d",
+        "name": "Kambe",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa9318578a0004053a5e",
+        "name": "Kawala",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fa9e18578a0004053a5f",
+        "name": "Kayafungo",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19faac18578a0004053a60",
+        "name": "Mariakani",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19faba18578a0004053a61",
+        "name": "Mugumo-wa-patsa",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fac618578a0004053a62",
+        "name": "Mwanamwinga",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fad218578a0004053a63",
+        "name": "Rabai",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fadc18578a0004053a64",
+        "name": "Ribe",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fae918578a0004053a65",
+        "name": "Ruruma",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19faf618578a0004053a66",
+        "name": "Tsangatsini",
+        "constituency": "Kaloleni",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fb5318578a0004053a67",
+        "name": "Bamba",
+        "constituency": "Ganze",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fb6018578a0004053a68",
+        "name": "Ganze",
+        "constituency": "Ganze",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fb7018578a0004053a69",
+        "name": "Jaribuni",
+        "constituency": "Ganze",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fb8518578a0004053a6a",
+        "name": "Sokoke",
+        "constituency": "Ganze",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fbb018578a0004053a6b",
+        "name": "Barani",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fbc718578a0004053a6c",
+        "name": "Ganda",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fed018578a0004053a6d",
+        "name": "Gede",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19fee518578a0004053a6e",
+        "name": "Kijiwetanga",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff1918578a0004053a6f",
+        "name": "Madunguni",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff2718578a0004053a70",
+        "name": "Malimo",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff3518578a0004053a71",
+        "name": "Malindi Central",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff4418578a0004053a72",
+        "name": "Malindi North",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff5418578a0004053a73",
+        "name": "Malindi South",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff6018578a0004053a74",
+        "name": "Watamu",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff6b18578a0004053a75",
+        "name": "Chakama",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff7918578a0004053a76",
+        "name": "Jilore",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ff8718578a0004053a77",
+        "name": "Lango Mbaya",
+        "constituency": "Malindi",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ffb418578a0004053a78",
+        "name": "Adu",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ffbf18578a0004053a79",
+        "name": "Bungale",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ffca18578a0004053a7a",
+        "name": "Dagamra",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c19ffef18578a0004053a7b",
+        "name": "Fundi-issa",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a000618578a0004053a7c",
+        "name": "Garashi",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a001318578a0004053a7d",
+        "name": "Gongoni",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a002218578a0004053a7e",
+        "name": "Magarini",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a002c18578a0004053a7f",
+        "name": "Marafa",
+        "constituency": "Magarini",
+        "county": "Kilifi",
+        "__v": 0
+    }
+]

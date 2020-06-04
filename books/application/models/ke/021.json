@@ -1,0 +1,380 @@
+[
+    {
+        "_id": "5c1a3e08d6248b0004632b69",
+        "name": "Gakira",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e13d6248b0004632b6a",
+        "name": "Iyego",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e26d6248b0004632b6b",
+        "name": "Kanyenyaini",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e34d6248b0004632b6c",
+        "name": "Kiairathe",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e3fd6248b0004632b6d",
+        "name": "Kiruri",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e4cd6248b0004632b6e",
+        "name": "Muringaini",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e57d6248b0004632b6f",
+        "name": "Rwathia",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3e65d6248b0004632b70",
+        "name": "Watuha",
+        "constituency": "Kangema",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3ee2d6248b0004632b71",
+        "name": "Gitugi",
+        "constituency": "Mathioya",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3efbd6248b0004632b72",
+        "name": "Kamacharia",
+        "constituency": "Mathioya",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3f05d6248b0004632b73",
+        "name": "Kiru",
+        "constituency": "Mathioya",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3f0fd6248b0004632b74",
+        "name": "Njumbi",
+        "constituency": "Mathioya",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4093d6248b0004632b75",
+        "name": "Central",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40a9d6248b0004632b76",
+        "name": "Gaturi",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40b2d6248b0004632b77",
+        "name": "Gikindu",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40c3d6248b0004632b78",
+        "name": "Hospital",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40d0d6248b0004632b79",
+        "name": "Kahuhia",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40dbd6248b0004632b7a",
+        "name": "Maragi",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40e5d6248b0004632b7b",
+        "name": "Mbiri Rural",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40f0d6248b0004632b7c",
+        "name": "Mugoiri",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a40fcd6248b0004632b7d",
+        "name": "Mukuyu",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4106d6248b0004632b7e",
+        "name": "Mumbi",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4112d6248b0004632b7f",
+        "name": "Murarandia",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a411ed6248b0004632b80",
+        "name": "Njoguini",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4128d6248b0004632b81",
+        "name": "Weithaga",
+        "constituency": "Kiharu",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4161d6248b0004632b82",
+        "name": "Kigumo",
+        "constituency": "Kigumo",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a416cd6248b0004632b83",
+        "name": "Kinyona",
+        "constituency": "Kigumo",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4179d6248b0004632b84",
+        "name": "Muthithi",
+        "constituency": "Kigumo",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41abd6248b0004632b85",
+        "name": "Gakoigo",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41b6d6248b0004632b86",
+        "name": "Ichagaki",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41c1d6248b0004632b87",
+        "name": "Mbugua",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41cad6248b0004632b88",
+        "name": "Samar",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41d6d6248b0004632b89",
+        "name": "Kambiti",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41e2d6248b0004632b8a",
+        "name": "Kirimiri",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41edd6248b0004632b8b",
+        "name": "Makuyu",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a41f8d6248b0004632b8c",
+        "name": "Wempa",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4204d6248b0004632b8d",
+        "name": "Kamahuha",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4210d6248b0004632b8e",
+        "name": "Maragua Ridge",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a421bd6248b0004632b8f",
+        "name": "Nginda",
+        "constituency": "Maragua",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4256d6248b0004632b90",
+        "name": "Gakui",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4262d6248b0004632b91",
+        "name": "Gathugu",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a427dd6248b0004632b92",
+        "name": "Gatundu",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a428bd6248b0004632b93",
+        "name": "Kaguthi",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4298d6248b0004632b94",
+        "name": "Gaichanjiru",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a42a5d6248b0004632b95",
+        "name": "Kagunduini",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a42b1d6248b0004632b96",
+        "name": "Muruka",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a42bdd6248b0004632b97",
+        "name": "Ruchu",
+        "constituency": "Kandara",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a42f6d6248b0004632b98",
+        "name": "Gatanga",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4300d6248b0004632b99",
+        "name": "Ithanga",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a430cd6248b0004632b9a",
+        "name": "Kakuzi",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4318d6248b0004632b9b",
+        "name": "Kariara",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4322d6248b0004632b9c",
+        "name": "Kigoro",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a432ed6248b0004632b9d",
+        "name": "Kihumbuini",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a433fd6248b0004632b9e",
+        "name": "Mitubiri",
+        "constituency": "Gatanga",
+        "county": "Muranga",
+        "__v": 0
+    }
+]

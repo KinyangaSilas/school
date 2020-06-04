@@ -1,0 +1,247 @@
+[
+    {
+        "_id": "5c1a117ed6248b00046329a7",
+        "name": "Ajawa",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11a2d6248b00046329a8",
+        "name": "Batalu",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11add6248b00046329a9",
+        "name": "Buna",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11b8d6248b00046329aa",
+        "name": "Bute",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11c2d6248b00046329ab",
+        "name": "Godoma",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11cad6248b00046329ac",
+        "name": "Gurar",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a11d5d6248b00046329ad",
+        "name": "Korondile",
+        "constituency": "Wajir North",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1221d6248b00046329ae",
+        "name": "Jogbaru",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a122ed6248b00046329af",
+        "name": "Khorof Harar",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1239d6248b00046329b0",
+        "name": "Township",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1245d6248b00046329b1",
+        "name": "Hothan",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1252d6248b00046329b2",
+        "name": "Wagberi",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a125fd6248b00046329b3",
+        "name": "Wajir Bor",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a126ad6248b00046329b4",
+        "name": "Wargadud",
+        "constituency": "Wajir East",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12a9d6248b00046329b5",
+        "name": "Adamsajide",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12bad6248b00046329b6",
+        "name": "Arbajahan",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12c8d6248b00046329b7",
+        "name": "Boji Heri",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12d2d6248b00046329b8",
+        "name": "Dela",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12dbd6248b00046329b9",
+        "name": "El-Nur",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12e5d6248b00046329ba",
+        "name": "Eldas",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12efd6248b00046329bb",
+        "name": "Ganyure",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a12fbd6248b00046329bc",
+        "name": "Griftu",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a130fd6248b00046329bd",
+        "name": "Hadado",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a131ad6248b00046329be",
+        "name": "Lakole South",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1326d6248b00046329bf",
+        "name": "Tula-Tula",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1336d6248b00046329c0",
+        "name": "Wagalla",
+        "constituency": "Wajir West",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1366d6248b00046329c1",
+        "name": "Benane",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1370d6248b00046329c2",
+        "name": "Burder",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1379d6248b00046329c3",
+        "name": "Dif",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1383d6248b00046329c4",
+        "name": "Dilmanyale",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1393d6248b00046329c5",
+        "name": "Habaswein Township",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a139ed6248b00046329c6",
+        "name": "Ibrahim Ure",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a13a9d6248b00046329c7",
+        "name": "Kulaaley",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a13b6d6248b00046329c8",
+        "name": "Lagboghol South",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a13c1d6248b00046329c9",
+        "name": "Sabule",
+        "constituency": "Wajir South",
+        "county": "Wajir",
+        "__v": 0
+    }
+]

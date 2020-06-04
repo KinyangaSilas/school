@@ -1,0 +1,226 @@
+[
+    {
+        "_id": "5c1b6d688a6e0a0004a71b94",
+        "name": "Bulanda",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6d828a6e0a0004a71b95",
+        "name": "Burumba",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6d898a6e0a0004a71b96",
+        "name": "Mayenje",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6d928a6e0a0004a71b97",
+        "name": "Mjini",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6d9a8a6e0a0004a71b98",
+        "name": "Kisoko",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6da18a6e0a0004a71b99",
+        "name": "Lwanyange",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6da98a6e0a0004a71b9a",
+        "name": "Manyole",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6db28a6e0a0004a71b9b",
+        "name": "Tangakona",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6dbc8a6e0a0004a71b9c",
+        "name": "Bukhayo Central",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6dc48a6e0a0004a71b9d",
+        "name": "Bukhayo East",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6dd18a6e0a0004a71b9e",
+        "name": "Bukhayo North",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6dda8a6e0a0004a71b9f",
+        "name": "Matayos North",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6de38a6e0a0004a71ba0",
+        "name": "Matayos South",
+        "constituency": "Nambale",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e0d8a6e0a0004a71ba1",
+        "name": "Marachi Central",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e188a6e0a0004a71ba2",
+        "name": "Marachi East",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e258a6e0a0004a71ba3",
+        "name": "Marachi North",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e2f8a6e0a0004a71ba4",
+        "name": "Marachi West",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e468a6e0a0004a71ba5",
+        "name": "Elugulu",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e648a6e0a0004a71ba6",
+        "name": "Kingandole",
+        "constituency": "Butula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e8a8a6e0a0004a71ba7",
+        "name": "Bwiri",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e938a6e0a0004a71ba8",
+        "name": "Funyula North",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6e9d8a6e0a0004a71ba9",
+        "name": "Funyula South",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ea78a6e0a0004a71baa",
+        "name": "Namboboto",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6eb08a6e0a0004a71bab",
+        "name": "Nangina",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6eb78a6e0a0004a71bac",
+        "name": "Odiado",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ebf8a6e0a0004a71bad",
+        "name": "Wakhungu",
+        "constituency": "Funyula",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ee88a6e0a0004a71bae",
+        "name": "Bukani",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ef28a6e0a0004a71baf",
+        "name": "Bukoma",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ef98a6e0a0004a71bb0",
+        "name": "Bulemia",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6f008a6e0a0004a71bb1",
+        "name": "Lunyofu",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6f0c8a6e0a0004a71bb2",
+        "name": "Bunyala North",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6f178a6e0a0004a71bb3",
+        "name": "Bunyala South",
+        "constituency": "Budalangi",
+        "county": "Busia",
+        "__v": 0
+    }
+]

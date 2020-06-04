@@ -1,0 +1,303 @@
+[
+    {
+        "_id": "5c1b46b9aef1500004df04b4",
+        "name": "Elburgon",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b46c5aef1500004df04b5",
+        "name": "Kiambiriria",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b46ceaef1500004df04b6",
+        "name": "Kihingo",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b46e7aef1500004df04b7",
+        "name": "Lare",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b46f0aef1500004df04b8",
+        "name": "Maraishoni",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b46faaef1500004df04b9",
+        "name": "Mau Narok",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4705aef1500004df04ba",
+        "name": "Mauche",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b470daef1500004df04bb",
+        "name": "Molo",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4716aef1500004df04bc",
+        "name": "Nessuit",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b471eaef1500004df04bd",
+        "name": "Njoro",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4727aef1500004df04be",
+        "name": "Sachangwani",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4733aef1500004df04bf",
+        "name": "Turi North",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4740aef1500004df04c0",
+        "name": "Turi South",
+        "constituency": "Molo",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4781aef1500004df04c1",
+        "name": "Biashara",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b478aaef1500004df04c2",
+        "name": "Gilgil",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4796aef1500004df04c3",
+        "name": "Hells Gate",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47a0aef1500004df04c4",
+        "name": "Kiambogo",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47afaef1500004df04c5",
+        "name": "Lake View",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47c4aef1500004df04c6",
+        "name": "Longonot",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47ccaef1500004df04c7",
+        "name": "Maiellla",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47d7aef1500004df04c8",
+        "name": "Malewa East",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47e2aef1500004df04c9",
+        "name": "Malewa West",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47f1aef1500004df04ca",
+        "name": "Maraigishu",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b47ffaef1500004df04cb",
+        "name": "Miti Mingi",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b480eaef1500004df04cc",
+        "name": "Murindati",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4818aef1500004df04cd",
+        "name": "Mwiciringiri",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4821aef1500004df04ce",
+        "name": "Naivasha East",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b482baef1500004df04cf",
+        "name": "Ndabibi",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4835aef1500004df04d0",
+        "name": "Olkaria",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b483daef1500004df04d1",
+        "name": "Viwanda",
+        "constituency": "Naivasha",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b489aaef1500004df04d2",
+        "name": "Bahati",
+        "constituency": "Subukia",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48a4aef1500004df04d3",
+        "name": "Dundori",
+        "constituency": "Subukia",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48acaef1500004df04d4",
+        "name": "Kabazi",
+        "constituency": "Subukia",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48b7aef1500004df04d5",
+        "name": "Ndungiri",
+        "constituency": "Subukia",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48bfaef1500004df04d6",
+        "name": "Ndungiri",
+        "constituency": "Subukia",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48e7aef1500004df04d7",
+        "name": "Boror",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48f2aef1500004df04d8",
+        "name": "Kampi ya Moto",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b48fbaef1500004df04d9",
+        "name": "Maji Tamu",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4904aef1500004df04da",
+        "name": "Makongeni",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b490daef1500004df04db",
+        "name": "Ngata",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4915aef1500004df04dc",
+        "name": "Rongai",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4921aef1500004df04dd",
+        "name": "Solai",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b492baef1500004df04de",
+        "name": "Waseges",
+        "constituency": "Rongai",
+        "county": "Nakuru",
+        "__v": 0
+    }
+]

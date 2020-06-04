@@ -1,0 +1,415 @@
+[
+    {
+        "_id": "5c1b49baaef1500004df04df",
+        "name": "Ang'ata Barrikoi",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b49cdaef1500004df04e0",
+        "name": "Emarti",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b49d6aef1500004df04e1",
+        "name": "Emurua Dikirr",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c4caef1500004df04e2",
+        "name": "Enoosaen",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c54aef1500004df04e3",
+        "name": "Kapune",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c5daef1500004df04e4",
+        "name": "Kimintet",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c67aef1500004df04e5",
+        "name": "Masurura",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c6faef1500004df04e6",
+        "name": "Moyoi",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c77aef1500004df04e7",
+        "name": "Murgan",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c81aef1500004df04e8",
+        "name": "Nkararo",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c8aaef1500004df04e9",
+        "name": "Oloirien",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c93aef1500004df04ea",
+        "name": "Ololmasani",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4c9baef1500004df04eb",
+        "name": "Olomismis",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ca3aef1500004df04ec",
+        "name": "Osinoni",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4cadaef1500004df04ed",
+        "name": "Poroko",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4cb6aef1500004df04ee",
+        "name": "Shankoe",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4cc1aef1500004df04ef",
+        "name": "Shartuka",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4cc9aef1500004df04f0",
+        "name": "Sikawa",
+        "constituency": "Kilgoris",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d18aef1500004df04f1",
+        "name": "Angata Naado",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d22aef1500004df04f2",
+        "name": "Enabelbel",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d31aef1500004df04f3",
+        "name": "Enoosupukia",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d3baef1500004df04f4",
+        "name": "Entiyani",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d49aef1500004df04f5",
+        "name": "Entontol",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d52aef1500004df04f6",
+        "name": "Ildamat",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d5daef1500004df04f7",
+        "name": "Ilmasharian",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d65aef1500004df04f8",
+        "name": "Keekonyokie",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d6faef1500004df04f9",
+        "name": "Masikonde",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d77aef1500004df04fa",
+        "name": "Mosiro",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d7faef1500004df04fb",
+        "name": "Naisoya",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d8aaef1500004df04fc",
+        "name": "Nkairamiram",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4d93aef1500004df04fd",
+        "name": "Nkareta East",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4da0aef1500004df04fe",
+        "name": "Nkareta North",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4daaaef1500004df04ff",
+        "name": "Ntulele",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4db3aef1500004df0500",
+        "name": "Olchoro",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4dbcaef1500004df0501",
+        "name": "Oleleshwa",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4dc5aef1500004df0502",
+        "name": "Oletukat",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4dceaef1500004df0503",
+        "name": "Olokurto",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4dd5aef1500004df0504",
+        "name": "Olopito",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ddeaef1500004df0505",
+        "name": "Olorropil",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4de6aef1500004df0506",
+        "name": "Olpusimoru",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4defaef1500004df0507",
+        "name": "Stadium",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4df8aef1500004df0508",
+        "name": "Suswa",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e01aef1500004df0509",
+        "name": "Upper Melili",
+        "constituency": "Narok North",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e59aef1500004df050a",
+        "name": "Elangata-Enterit",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e69aef1500004df050b",
+        "name": "Ilmotiook",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e74aef1500004df050c",
+        "name": "Lemek",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e7caef1500004df050d",
+        "name": "Loita West",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e85aef1500004df050e",
+        "name": "Maji Moto",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e8eaef1500004df050f",
+        "name": "Mara",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e96aef1500004df0510",
+        "name": "Melelo",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4e9eaef1500004df0511",
+        "name": "Morijo Loita",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ea6aef1500004df0512",
+        "name": "Mulot",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4eaeaef1500004df0513",
+        "name": "Naikarra",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4eb7aef1500004df0514",
+        "name": "Naroosura",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ec0aef1500004df0515",
+        "name": "Nkareta West",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ec9aef1500004df0516",
+        "name": "Olderkesi",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ed2aef1500004df0517",
+        "name": "Olkinyei",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4edaaef1500004df0518",
+        "name": "Olololunga",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4ee2aef1500004df0519",
+        "name": "Siana",
+        "constituency": "Narok South",
+        "county": "Narok",
+        "__v": 0
+    }
+]

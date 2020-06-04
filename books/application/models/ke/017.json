@@ -1,0 +1,163 @@
+[
+    {
+        "_id": "5c1a3372d6248b0004632ae7",
+        "name": "Kako",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3390d6248b0004632ae8",
+        "name": "Kalawa",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a339ad6248b0004632ae9",
+        "name": "Katangini",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33a8d6248b0004632aea",
+        "name": "Kisau",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33b3d6248b0004632aeb",
+        "name": "Kiteta",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33bed6248b0004632aec",
+        "name": "Kithungo",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33c9d6248b0004632aed",
+        "name": "Mbooni",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33d1d6248b0004632aee",
+        "name": "Tulimani",
+        "constituency": "Mbooni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a33f9d6248b0004632aef",
+        "name": "Kalanzoni",
+        "constituency": "Kilome",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3408d6248b0004632af0",
+        "name": "Kasikeu",
+        "constituency": "Kilome",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3415d6248b0004632af1",
+        "name": "Mukaa",
+        "constituency": "Kilome",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3461d6248b0004632af2",
+        "name": "Kaumoni",
+        "constituency": "Kaiti",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3478d6248b0004632af3",
+        "name": "Kilungu",
+        "constituency": "Kaiti",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3484d6248b0004632af4",
+        "name": "Kithembe",
+        "constituency": "Kaiti",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3492d6248b0004632af5",
+        "name": "Ukia",
+        "constituency": "Kaiti",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34a1d6248b0004632af6",
+        "name": "Watema",
+        "constituency": "Kaiti",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34cad6248b0004632af7",
+        "name": "Wote",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34d5d6248b0004632af8",
+        "name": "Muvau",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34e3d6248b0004632af9",
+        "name": "Mavindini",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34edd6248b0004632afa",
+        "name": "Kitise",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a34f9d6248b0004632afb",
+        "name": "Kathonzweni",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3506d6248b0004632afc",
+        "name": "Nzaui",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3514d6248b0004632afd",
+        "name": "Mbitini",
+        "constituency": "Makueni",
+        "county": "Makueni",
+        "__v": 0
+    }
+]

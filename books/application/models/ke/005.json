@@ -1,0 +1,121 @@
+[
+    {
+        "_id": "5c1a02be18578a0004053a9a",
+        "name": "Basuba",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a02d118578a0004053a9b",
+        "name": "Faza",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a02db18578a0004053a9c",
+        "name": "Kiunga",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a02eb18578a0004053a9d",
+        "name": "Kizingitini West",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a02f618578a0004053a9e",
+        "name": "Ndau",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a030818578a0004053a9f",
+        "name": "Siyu",
+        "constituency": "Lamu East",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a035c18578a0004053aa0",
+        "name": "Baharini",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a037c18578a0004053aa1",
+        "name": "Dide Waride",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a038b18578a0004053aa2",
+        "name": "Magogoni",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a039a18578a0004053aa3",
+        "name": "Hongwe",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03a618578a0004053aa4",
+        "name": "Langoni",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03b018578a0004053aa5",
+        "name": "Mapenya",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03bf18578a0004053aa6",
+        "name": "Mkomani",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03cc18578a0004053aa7",
+        "name": "Mkunumbi",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03d818578a0004053aa8",
+        "name": "Mokowe",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03e318578a0004053aa9",
+        "name": "Mpeketoni",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a03f018578a0004053aaa",
+        "name": "Witu",
+        "constituency": "Lamu West",
+        "county": "Lamu",
+        "__v": 0
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "_id": "5c1a29b7d6248b0004632a69",
+        "name": "Blue Valley",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a29e3d6248b0004632a6a",
+        "name": "Itabua",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a29eed6248b0004632a6b",
+        "name": "Kamiu",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a29f8d6248b0004632a6c",
+        "name": "Kangaru",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a03d6248b0004632a6d",
+        "name": "Majengo",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a0ed6248b0004632a6e",
+        "name": "Matakari",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a18d6248b0004632a6f",
+        "name": "Njukiri",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a26d6248b0004632a70",
+        "name": "Gaturi South",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a36d6248b0004632a71",
+        "name": "Kithimu",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a41d6248b0004632a72",
+        "name": "Ngandori",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a4dd6248b0004632a73",
+        "name": "Nginda",
+        "constituency": "Manyatta",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a79d6248b0004632a74",
+        "name": "Gichera",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a8ad6248b0004632a75",
+        "name": "Kyeni Urban",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a94d6248b0004632a76",
+        "name": "Nthagaiya",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2a9ed6248b0004632a77",
+        "name": "Runyenjes Central",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2aabd6248b0004632a78",
+        "name": "Gaturi North",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ab6d6248b0004632a79",
+        "name": "Kagaari North",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ac4d6248b0004632a7a",
+        "name": "Kigumo",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2acfd6248b0004632a7b",
+        "name": "Kyeni North",
+        "constituency": "Runyenjes",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b17d6248b0004632a7c",
+        "name": "Karaba",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b21d6248b0004632a7d",
+        "name": "Kiambere",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b2cd6248b0004632a7e",
+        "name": "Kianjiru",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b37d6248b0004632a7f",
+        "name": "Makima",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b40d6248b0004632a80",
+        "name": "Mavuria",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b4bd6248b0004632a81",
+        "name": "Mbeti South",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b55d6248b0004632a82",
+        "name": "Riakanau",
+        "constituency": "Mbeere South",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b92d6248b0004632a83",
+        "name": "Ishiara",
+        "constituency": "Mbeere North",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2b9dd6248b0004632a84",
+        "name": "Kanyuambora",
+        "constituency": "Mbeere North",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2ba7d6248b0004632a85",
+        "name": "Kiang'ombe",
+        "constituency": "Mbeere North",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2bb3d6248b0004632a86",
+        "name": "Muminji",
+        "constituency": "Mbeere North",
+        "county": "Embu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2bbed6248b0004632a87",
+        "name": "Nthawa",
+        "constituency": "Mbeere North",
+        "county": "Embu",
+        "__v": 0
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "5c1a044418578a0004053aab",
+        "name": "Chala",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a046618578a0004053aac",
+        "name": "Kitobo",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a047118578a0004053aad",
+        "name": "Mahoo",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a047c18578a0004053aae",
+        "name": "Mboghoni",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a048818578a0004053aaf",
+        "name": "Taveta North",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a049618578a0004053ab0",
+        "name": "Taveta South",
+        "constituency": "Taveta",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a04bc18578a0004053ab1",
+        "name": "Mwanda",
+        "constituency": "Wundanyi",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a04c818578a0004053ab2",
+        "name": "Werugha",
+        "constituency": "Wundanyi",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a04d818578a0004053ab3",
+        "name": "Wumingu",
+        "constituency": "Wundanyi",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a04e518578a0004053ab4",
+        "name": "Wundanyi",
+        "constituency": "Wundanyi",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a051d18578a0004053ab5",
+        "name": "Kighononyi",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a052718578a0004053ab6",
+        "name": "Bura",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a053118578a0004053ab7",
+        "name": "Chawia",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a053b18578a0004053ab8",
+        "name": "Mwachabo",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a054618578a0004053ab9",
+        "name": "Mwakitau",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a055018578a0004053aba",
+        "name": "Mwatate",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a055918578a0004053abb",
+        "name": "Rong'e",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a056518578a0004053abc",
+        "name": "Rong'e Juu",
+        "constituency": "Mwatate",
+        "county": "Taita-Taveta",
+        "__v": 0
+    }
+]

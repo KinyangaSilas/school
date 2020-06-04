@@ -1,0 +1,184 @@
+[
+    {
+        "_id": "5c1a35a2d6248b0004632afe",
+        "name": "Engineer",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35c7d6248b0004632aff",
+        "name": "Magumu",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35d1d6248b0004632b00",
+        "name": "Njabini",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35dbd6248b0004632b01",
+        "name": "Gathara",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35e5d6248b0004632b02",
+        "name": "Murungaru",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35f0d6248b0004632b03",
+        "name": "North Kinangop",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a35fdd6248b0004632b04",
+        "name": "Githabai",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3607d6248b0004632b05",
+        "name": "Nyakio",
+        "constituency": "Kinangop",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a364bd6248b0004632b06",
+        "name": "Geta",
+        "constituency": "Kipipiri",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3656d6248b0004632b07",
+        "name": "Kipiriri",
+        "constituency": "Kipipiri",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a365fd6248b0004632b08",
+        "name": "Lereshwa",
+        "constituency": "Kipipiri",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a366ad6248b0004632b09",
+        "name": "Malewa River",
+        "constituency": "Kipipiri",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36a4d6248b0004632b0a",
+        "name": "Gichungo",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36aed6248b0004632b0b",
+        "name": "Kaimbaga",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36bbd6248b0004632b0c",
+        "name": "Olkalou",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36c5d6248b0004632b0d",
+        "name": "Olkalou Central",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36d2d6248b0004632b0e",
+        "name": "Rurii",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36dcd6248b0004632b0f",
+        "name": "Dundori",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36e8d6248b0004632b10",
+        "name": "Gathanji",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36f1d6248b0004632b11",
+        "name": "Gatimu",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a36fbd6248b0004632b12",
+        "name": "Kanjuiri Ridge",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3709d6248b0004632b13",
+        "name": "Ol Joro Orok",
+        "constituency": "Ol Kalou",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3755d6248b0004632b14",
+        "name": "Kiriita",
+        "constituency": "Ndaragwa",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3760d6248b0004632b15",
+        "name": "Leshau Pondo",
+        "constituency": "Ndaragwa",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3769d6248b0004632b16",
+        "name": "Ndaragwa",
+        "constituency": "Ndaragwa",
+        "county": "Nyandarua",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a3773d6248b0004632b17",
+        "name": "Shamata",
+        "constituency": "Ndaragwa",
+        "county": "Nyandarua",
+        "__v": 0
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "_id": "5d83ad5552eebe00041f9bc5",
+        "name": "Moi’s Bridge",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5652eebe00041f9bc6",
+        "name": "Kapkures",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5652eebe00041f9bc7",
+        "name": "Ziwa",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5752eebe00041f9bc9",
+        "name": "Kipsom Ba",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5852eebe00041f9bca",
+        "name": "Soy",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5852eebe00041f9bcb",
+        "name": "Kuinet/Kapsuswa",
+        "constituency": "Soy",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5952eebe00041f9bcc",
+        "name": "Ngenyilel",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5952eebe00041f9bcd",
+        "name": "Tapsagoi",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5a52eebe00041f9bce",
+        "name": "Kamagut",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5a52eebe00041f9bcf",
+        "name": "Kiplombe",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5b52eebe00041f9bd0",
+        "name": "Kapsaos",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5b52eebe00041f9bd1",
+        "name": "Huruma",
+        "constituency": "Turbo",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5c52eebe00041f9bd2",
+        "name": "Tembelio",
+        "constituency": "Moiben",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5c52eebe00041f9bd3",
+        "name": "Sergoit",
+        "constituency": "Moiben",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5d52eebe00041f9bd4",
+        "name": "Karuna/Meibeki",
+        "constituency": "Moiben",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5d52eebe00041f9bd5",
+        "name": "Moiben",
+        "constituency": "Moiben",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5e52eebe00041f9bd6",
+        "name": "Kimumu",
+        "constituency": "Moiben",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5e52eebe00041f9bd7",
+        "name": "Kapsoya",
+        "constituency": "Ainabkoi",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad5f52eebe00041f9bd8",
+        "name": "Kaptagat",
+        "constituency": "Ainabkoi",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6052eebe00041f9bd9",
+        "name": "Ainabkoi/Olare",
+        "constituency": "Ainabkoi",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6052eebe00041f9bda",
+        "name": "Simat/Kapseret",
+        "constituency": "Kapseret",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6152eebe00041f9bdb",
+        "name": "Kipkenyo",
+        "constituency": "Kapseret",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6152eebe00041f9bdc",
+        "name": "Ngeria",
+        "constituency": "Kapseret",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6252eebe00041f9bdd",
+        "name": "Megun",
+        "constituency": "Kapseret",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6252eebe00041f9bde",
+        "name": "Langas",
+        "constituency": "Kapseret",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6352eebe00041f9bdf",
+        "name": "Racecourse",
+        "constituency": "Kesses",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6352eebe00041f9be0",
+        "name": "Cheptiret/Kipchamo",
+        "constituency": "Kesses",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6452eebe00041f9be1",
+        "name": "Tulwet/Chuiyat",
+        "constituency": "Kesses",
+        "county": "Uasin Gishu",
+        "__v": 0
+    },
+    {
+        "_id": "5d83ad6452eebe00041f9be2",
+        "name": "Tarakwa",
+        "constituency": "Kesses",
+        "county": "Uasin Gishu",
+        "__v": 0
+    }
+]

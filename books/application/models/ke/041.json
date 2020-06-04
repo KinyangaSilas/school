@@ -1,0 +1,366 @@
+[
+    {
+        "_id": "5c1b6f938a6e0a0004a71bb4",
+        "name": "Ambira",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fac8a6e0a0004a71bb5",
+        "name": "East Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fbb8a6e0a0004a71bb6",
+        "name": "Magoya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fc48a6e0a0004a71bb7",
+        "name": "North East Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fce8a6e0a0004a71bb8",
+        "name": "North Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fd88a6e0a0004a71bb9",
+        "name": "North West Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fe38a6e0a0004a71bba",
+        "name": "South Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fed8a6e0a0004a71bbb",
+        "name": "Ugunja",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ff68a6e0a0004a71bbc",
+        "name": "Uholo East",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6fff8a6e0a0004a71bbd",
+        "name": "Uholo North",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b700a8a6e0a0004a71bbe",
+        "name": "Ukwala East",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70168a6e0a0004a71bbf",
+        "name": "Ukwala West",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b701f8a6e0a0004a71bc0",
+        "name": "Umala",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70278a6e0a0004a71bc1",
+        "name": "West Ugenya",
+        "constituency": "Ugenya",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70c58a6e0a0004a71bc2",
+        "name": "Boro East",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70cd8a6e0a0004a71bc3",
+        "name": "Boro West",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70d88a6e0a0004a71bc4",
+        "name": "East Alego",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70e18a6e0a0004a71bc5",
+        "name": "Mjini",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70eb8a6e0a0004a71bc6",
+        "name": "North Alego",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b70f98a6e0a0004a71bc7",
+        "name": "Siaya Central",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71028a6e0a0004a71bc8",
+        "name": "Siaya East",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b710e8a6e0a0004a71bc9",
+        "name": "Siaya North",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71188a6e0a0004a71bca",
+        "name": "Siaya West",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71228a6e0a0004a71bcb",
+        "name": "South Alego",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b712d8a6e0a0004a71bcc",
+        "name": "South West Alego",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71388a6e0a0004a71bcd",
+        "name": "Usonga",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71458a6e0a0004a71bce",
+        "name": "West Alego",
+        "constituency": "Alego",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71738a6e0a0004a71bcf",
+        "name": "Anyiko",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b717d8a6e0a0004a71bd0",
+        "name": "Central Gem",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71858a6e0a0004a71bd1",
+        "name": "East Gem",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71908a6e0a0004a71bd2",
+        "name": "Jina",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71998a6e0a0004a71bd3",
+        "name": "Marenyo",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71a28a6e0a0004a71bd4",
+        "name": "North Gem",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71ad8a6e0a0004a71bd5",
+        "name": "Nyamninia",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71b68a6e0a0004a71bd6",
+        "name": "South Gem",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71c28a6e0a0004a71bd7",
+        "name": "Wagai North",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b71ce8a6e0a0004a71bd8",
+        "name": "Wagai South",
+        "constituency": "Gem",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72068a6e0a0004a71bd9",
+        "name": "Ajigo",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72138a6e0a0004a71bda",
+        "name": "Bar Kowino East",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72228a6e0a0004a71bdb",
+        "name": "Bar Kowino West",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72318a6e0a0004a71bdc",
+        "name": "Bondo Town",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b723d8a6e0a0004a71bdd",
+        "name": "Maranda West",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b724a8a6e0a0004a71bde",
+        "name": "North Sakwa",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72578a6e0a0004a71bdf",
+        "name": "Nyang'oma",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72628a6e0a0004a71be0",
+        "name": "Nyawita",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b726d8a6e0a0004a71be1",
+        "name": "Usigu East",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72788a6e0a0004a71be2",
+        "name": "Usigu West",
+        "constituency": "Bondo",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72a28a6e0a0004a71be3",
+        "name": "Central Asembo",
+        "constituency": "Rarieda",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72ad8a6e0a0004a71be4",
+        "name": "East Asembo",
+        "constituency": "Rarieda",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72ba8a6e0a0004a71be5",
+        "name": "Madiany East",
+        "constituency": "Rarieda",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72c48a6e0a0004a71be6",
+        "name": "Madiany West",
+        "constituency": "Rarieda",
+        "county": "Siaya",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b72cd8a6e0a0004a71be7",
+        "name": "Rarieda West",
+        "constituency": "Rarieda",
+        "county": "Siaya",
+        "__v": 0
+    }
+]

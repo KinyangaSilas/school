@@ -1,0 +1,226 @@
+[
+    {
+        "_id": "5c1a4ebcd6248b0004632c2e",
+        "name": "Biashara",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4eeed6248b0004632c2f",
+        "name": "Lkorroto",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4ef8d6248b0004632c30",
+        "name": "Milimani",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f01d6248b0004632c31",
+        "name": "Ng'ari",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f0bd6248b0004632c32",
+        "name": "Shabaa",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f17d6248b0004632c33",
+        "name": "Angata Nanyokie",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f23d6248b0004632c34",
+        "name": "Arsim",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f2dd6248b0004632c35",
+        "name": "Baawa",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f38d6248b0004632c36",
+        "name": "Baragoi",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f42d6248b0004632c37",
+        "name": "Barsaloi",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f4dd6248b0004632c38",
+        "name": "El-barta",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f57d6248b0004632c39",
+        "name": "Kawap",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f60d6248b0004632c3a",
+        "name": "Lodokejek",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f69d6248b0004632c3b",
+        "name": "Loosuk",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f71d6248b0004632c3c",
+        "name": "Lpartuk",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f7bd6248b0004632c3d",
+        "name": "Marti",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f87d6248b0004632c3e",
+        "name": "Nachola",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f91d6248b0004632c3f",
+        "name": "Ndoto",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4f9bd6248b0004632c40",
+        "name": "Nyiro East",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4fa3d6248b0004632c41",
+        "name": "Nyiro West",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4facd6248b0004632c42",
+        "name": "Opiroi",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4fb6d6248b0004632c43",
+        "name": "Poro",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4fbfd6248b0004632c44",
+        "name": "Suguta Marmar",
+        "constituency": "Samburu West",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a500bd6248b0004632c45",
+        "name": "Lodungokwe",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5015d6248b0004632c46",
+        "name": "Nairimirimo",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a501fd6248b0004632c47",
+        "name": "Ngare Narok",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5028d6248b0004632c48",
+        "name": "Ngaroni",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5033d6248b0004632c49",
+        "name": "Ngilai West",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a503fd6248b0004632c4a",
+        "name": "Sere-Olipi",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a504ad6248b0004632c4b",
+        "name": "Wamba",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a5054d6248b0004632c4c",
+        "name": "Waso East",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a505ed6248b0004632c4d",
+        "name": "Waso West",
+        "constituency": "Samburu East",
+        "county": "Samburu",
+        "__v": 0
+    }
+]

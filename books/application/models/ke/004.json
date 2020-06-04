@@ -1,0 +1,184 @@
+[
+    {
+        "_id": "5c1a00c018578a0004053a80",
+        "name": "Assa",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a010018578a0004053a81",
+        "name": "Bilisa",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a011a18578a0004053a82",
+        "name": "Garsen Central",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a012518578a0004053a83",
+        "name": "Garsen South",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a013118578a0004053a84",
+        "name": "Kipini East",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a013c18578a0004053a85",
+        "name": "Kipini West",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a014e18578a0004053a86",
+        "name": "Ndera",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a016518578a0004053a87",
+        "name": "Salama",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a017118578a0004053a88",
+        "name": "Shirikisho",
+        "constituency": "Garsen",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01a518578a0004053a89",
+        "name": "Chewani",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01b118578a0004053a8a",
+        "name": "Chifiri",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01bb18578a0004053a8b",
+        "name": "Gwano",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01c718578a0004053a8c",
+        "name": "Kinakomba",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01d218578a0004053a8d",
+        "name": "Milalulu",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01e518578a0004053a8e",
+        "name": "Ndura",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a01f418578a0004053a8f",
+        "name": "Wayu",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a020318578a0004053a90",
+        "name": "Mikinduni",
+        "constituency": "Galole",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a022c18578a0004053a91",
+        "name": "Bangale",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a024318578a0004053a92",
+        "name": "Chewele",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a024e18578a0004053a93",
+        "name": "Hirimani",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a025818578a0004053a94",
+        "name": "Kamaguru",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a026518578a0004053a95",
+        "name": "Madogo South",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a027018578a0004053a96",
+        "name": "Mbalambala",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a027b18578a0004053a97",
+        "name": "Nanighi",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a028618578a0004053a98",
+        "name": "Saka",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a029018578a0004053a99",
+        "name": "Sala",
+        "constituency": "Bura",
+        "county": "Tana-River",
+        "__v": 0
+    }
+]

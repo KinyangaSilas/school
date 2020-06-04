@@ -1,0 +1,366 @@
+[
+    {
+        "_id": "5c1b345caef1500004df041c",
+        "name": "Chebarus",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b347caef1500004df041d",
+        "name": "Kapng'etuny",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3487aef1500004df041e",
+        "name": "Kapsimotwo",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3491aef1500004df041f",
+        "name": "Kosoiywo",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3498aef1500004df0420",
+        "name": "Mogobich",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34a0aef1500004df0421",
+        "name": "Siret",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34a9aef1500004df0422",
+        "name": "Chemelil",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34b2aef1500004df0423",
+        "name": "Kapchorwa",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34bbaef1500004df0424",
+        "name": "Kapkoros",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34cbaef1500004df0425",
+        "name": "Meteitei",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34d5aef1500004df0426",
+        "name": "O'llessos",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34deaef1500004df0427",
+        "name": "Soba",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34e5aef1500004df0428",
+        "name": "Sochoi",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34edaef1500004df0429",
+        "name": "Songhor",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b34f6aef1500004df042a",
+        "name": "Tinderet",
+        "constituency": "Tinderet",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3576aef1500004df042b",
+        "name": "Chemase",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b357faef1500004df042c",
+        "name": "Chepkumia",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3587aef1500004df042d",
+        "name": "Kabwareng",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3592aef1500004df042e",
+        "name": "Kaptumo",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b359daef1500004df042f",
+        "name": "Kemeloi",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b35a5aef1500004df0430",
+        "name": "Kibwareng",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b35adaef1500004df0431",
+        "name": "Koyo",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b35b6aef1500004df0432",
+        "name": "Maraba",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b35bfaef1500004df0433",
+        "name": "Ndurio",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b35c7aef1500004df0434",
+        "name": "Terik",
+        "constituency": "Aldai",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3634aef1500004df0435",
+        "name": "Arwos",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b363faef1500004df0436",
+        "name": "Chemundu",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3647aef1500004df0437",
+        "name": "Chepterit",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3651aef1500004df0438",
+        "name": "Kabirirsang",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3659aef1500004df0439",
+        "name": "Kaboi",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3660aef1500004df043a",
+        "name": "Kamobo",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3668aef1500004df043b",
+        "name": "Kamoiywo",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b366faef1500004df043c",
+        "name": "Kapkangani",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b367caef1500004df043d",
+        "name": "Kapsabet",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3684aef1500004df043e",
+        "name": "Kapsisiywa",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b368faef1500004df043f",
+        "name": "Kaptel",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3699aef1500004df0440",
+        "name": "Kilibwoni North",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b36a3aef1500004df0441",
+        "name": "Kiminda",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b36adaef1500004df0442",
+        "name": "Kipsotoi",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b36b6aef1500004df0443",
+        "name": "Kiptuiya",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b36c0aef1500004df0444",
+        "name": "Kipture",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b36caaef1500004df0445",
+        "name": "Kosirai",
+        "constituency": "Emgwen",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3715aef1500004df0446",
+        "name": "Chepterwai",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3727aef1500004df0447",
+        "name": "Kabisaga",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b37a5aef1500004df0448",
+        "name": "Kabiyet",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b37afaef1500004df0449",
+        "name": "Kipkaren",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3899aef1500004df044a",
+        "name": "Kurgung",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b38a2aef1500004df044b",
+        "name": "Lelmokwo",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b38abaef1500004df044c",
+        "name": "Mutwot",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b38b4aef1500004df044d",
+        "name": "Ndalat",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b38bdaef1500004df044e",
+        "name": "Sangalo",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b38c5aef1500004df044f",
+        "name": "Surungai",
+        "constituency": "Mosop",
+        "county": "Nandi",
+        "__v": 0
+    }
+]

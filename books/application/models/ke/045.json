@@ -1,0 +1,338 @@
+[
+    {
+        "_id": "5c1b7f608a6e0a0004a71c59",
+        "name": "Nyamokenye",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f798a6e0a0004a71c5a",
+        "name": "Bogiakumu",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f808a6e0a0004a71c5b",
+        "name": "Bokeira",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f888a6e0a0004a71c5c",
+        "name": "Insaria",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f908a6e0a0004a71c5d",
+        "name": "Nyang'iti",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7f9a8a6e0a0004a71c5e",
+        "name": "Bomariba",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7fa48a6e0a0004a71c5f",
+        "name": "Bomokora",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7fac8a6e0a0004a71c60",
+        "name": "Riana",
+        "constituency": "Bonchari",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7fdf8a6e0a0004a71c61",
+        "name": "Bogetenga",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7fec8a6e0a0004a71c62",
+        "name": "Boikanga East",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b7ff98a6e0a0004a71c63",
+        "name": "Boikanga West",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80048a6e0a0004a71c64",
+        "name": "Bomonyara",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b800d8a6e0a0004a71c65",
+        "name": "Borabu",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80188a6e0a0004a71c66",
+        "name": "Central",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80218a6e0a0004a71c67",
+        "name": "Chitago",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b802a8a6e0a0004a71c68",
+        "name": "Getenga",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80338a6e0a0004a71c69",
+        "name": "Nyachenge",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b803d8a6e0a0004a71c6a",
+        "name": "Nyango",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80468a6e0a0004a71c6b",
+        "name": "Nyansore",
+        "constituency": "South Mugirango",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80948a6e0a0004a71c6c",
+        "name": "Emenwa",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b809f8a6e0a0004a71c6d",
+        "name": "Kiobegi",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80a98a6e0a0004a71c6e",
+        "name": "Nyachogochogo",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80b58a6e0a0004a71c6f",
+        "name": "Nyantira",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80be8a6e0a0004a71c70",
+        "name": "Mosora",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80c78a6e0a0004a71c71",
+        "name": "Sameta",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80d08a6e0a0004a71c72",
+        "name": "Bobasi Chache",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80da8a6e0a0004a71c73",
+        "name": "Bobasi Masige",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80e38a6e0a0004a71c74",
+        "name": "Igare",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80ec8a6e0a0004a71c75",
+        "name": "Maji Mazuri",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80f58a6e0a0004a71c76",
+        "name": "Nyacheki",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b80ff8a6e0a0004a71c77",
+        "name": "Nyangusu",
+        "constituency": "Bobasi",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81478a6e0a0004a71c78",
+        "name": "Amabuko",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b814f8a6e0a0004a71c79",
+        "name": "Ichuni",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81568a6e0a0004a71c7a",
+        "name": "Gekonge",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81608a6e0a0004a71c7b",
+        "name": "Gesusu",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81698a6e0a0004a71c7c",
+        "name": "Kerema",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81728a6e0a0004a71c7d",
+        "name": "Metembe",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b817a8a6e0a0004a71c7e",
+        "name": "Ikorongo",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81838a6e0a0004a71c7f",
+        "name": "Kiamokama",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b818c8a6e0a0004a71c80",
+        "name": "Mogonga",
+        "constituency": "Nyaribari Masaba",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81bf8a6e0a0004a71c81",
+        "name": "Bobaracho",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81c78a6e0a0004a71c82",
+        "name": "Central",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81d78a6e0a0004a71c83",
+        "name": "Keumbu",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81e08a6e0a0004a71c84",
+        "name": "Kanga Hill",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81ea8a6e0a0004a71c85",
+        "name": "Kegati",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81f28a6e0a0004a71c86",
+        "name": "Kiogoro",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b81fb8a6e0a0004a71c87",
+        "name": "Nyansira",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b82048a6e0a0004a71c88",
+        "name": "Nyaura",
+        "constituency": "Nyaribari Chache",
+        "county": "Kisii",
+        "__v": 0
+    }
+]

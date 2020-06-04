@@ -1,0 +1,310 @@
+[
+    {
+        "_id": "5c1b75f18a6e0a0004a71c13",
+        "name": "Central Karachuonyo",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75fd8a6e0a0004a71c14",
+        "name": "Gendia",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76088a6e0a0004a71c15",
+        "name": "Kumba",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76128a6e0a0004a71c16",
+        "name": "Kanyaluo",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b761a8a6e0a0004a71c17",
+        "name": "Kibiri",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76278a6e0a0004a71c18",
+        "name": "North West Karachuonyo",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76358a6e0a0004a71c19",
+        "name": "Rambira",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76408a6e0a0004a71c1a",
+        "name": "Simbi",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b764c8a6e0a0004a71c1b",
+        "name": "Wang'chieng",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76598a6e0a0004a71c1c",
+        "name": "West Karachuonyo",
+        "constituency": "Karachuonyo",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b768e8a6e0a0004a71c1d",
+        "name": "Hospital",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76968a6e0a0004a71c1e",
+        "name": "Kalanya",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b769f8a6e0a0004a71c1f",
+        "name": "Kanyabala",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76a98a6e0a0004a71c20",
+        "name": "Kanyadier",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76b28a6e0a0004a71c21",
+        "name": "Katuma",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76bb8a6e0a0004a71c22",
+        "name": "Posta",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76c58a6e0a0004a71c23",
+        "name": "Gem Central",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76d18a6e0a0004a71c24",
+        "name": "Gem East",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76da8a6e0a0004a71c25",
+        "name": "Gem West",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76e48a6e0a0004a71c26",
+        "name": "Kagan East",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76ee8a6e0a0004a71c27",
+        "name": "Kagan West",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b76f98a6e0a0004a71c28",
+        "name": "Kanyada",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77048a6e0a0004a71c29",
+        "name": "Kochia East",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b770e8a6e0a0004a71c2a",
+        "name": "Kochia West",
+        "constituency": "Rangwe",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77458a6e0a0004a71c2b",
+        "name": "Central Kabuoch",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77518a6e0a0004a71c2c",
+        "name": "Central Kanyamwa",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b775c8a6e0a0004a71c2d",
+        "name": "East Kwabwai",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77658a6e0a0004a71c2e",
+        "name": "Kanyadoto",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b776f8a6e0a0004a71c2f",
+        "name": "Kanyamwa Kologi",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77778a6e0a0004a71c30",
+        "name": "Kanyikela",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b777f8a6e0a0004a71c31",
+        "name": "Riana West",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77898a6e0a0004a71c32",
+        "name": "South Kabuoch",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77938a6e0a0004a71c33",
+        "name": "West Kanyamwa",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b779c8a6e0a0004a71c34",
+        "name": "West Kwabwai",
+        "constituency": "Ndhiwa",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77c78a6e0a0004a71c35",
+        "name": "Kamasengre",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77d18a6e0a0004a71c36",
+        "name": "Kasgunga Central",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77db8a6e0a0004a71c37",
+        "name": "Kasgunga West",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77e68a6e0a0004a71c38",
+        "name": "Kaswanga",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77ee8a6e0a0004a71c39",
+        "name": "Rusinga East",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77f68a6e0a0004a71c3a",
+        "name": "Gembe",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b77ff8a6e0a0004a71c3b",
+        "name": "Lambwe East",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b78098a6e0a0004a71c3c",
+        "name": "Lambwe West",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b78128a6e0a0004a71c3d",
+        "name": "Wakula",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b781e8a6e0a0004a71c3e",
+        "name": "Waware",
+        "constituency": "Mbita",
+        "county": "Homa Bay",
+        "__v": 0
+    }
+]

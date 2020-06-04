@@ -1,0 +1,373 @@
+[
+    {
+        "_id": "5c1a439bd6248b0004632b9f",
+        "name": "Kiamwangi",
+        "constituency": "Gatundu South",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a43bbd6248b0004632ba0",
+        "name": "Kiganjo",
+        "constituency": "Gatundu South",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a43c5d6248b0004632ba1",
+        "name": "Ndaragu",
+        "constituency": "Gatundu South",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a43d0d6248b0004632ba2",
+        "name": "Ng'enda",
+        "constituency": "Gatundu South",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4400d6248b0004632ba3",
+        "name": "Chania",
+        "constituency": "Gatundu North",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a440ed6248b0004632ba4",
+        "name": "Githobokoni",
+        "constituency": "Gatundu North",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a441ad6248b0004632ba5",
+        "name": "Gituamba",
+        "constituency": "Gatundu North",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4425d6248b0004632ba6",
+        "name": "Mang'u",
+        "constituency": "Gatundu North",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4455d6248b0004632ba7",
+        "name": "Juja",
+        "constituency": "Juja",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4463d6248b0004632ba8",
+        "name": "Kalimoni",
+        "constituency": "Juja",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a446ed6248b0004632ba9",
+        "name": "Witeithie",
+        "constituency": "Juja",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a447cd6248b0004632baa",
+        "name": "Murera",
+        "constituency": "Juja",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4487d6248b0004632bab",
+        "name": "Theta",
+        "constituency": "Juja",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a44dbd6248b0004632bac",
+        "name": "Githiga",
+        "constituency": "Githunguri",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a44e6d6248b0004632bad",
+        "name": "Githunguri",
+        "constituency": "Githunguri",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a44f2d6248b0004632bae",
+        "name": "Ikinu",
+        "constituency": "Githunguri",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4503d6248b0004632baf",
+        "name": "Komothai",
+        "constituency": "Githunguri",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a450dd6248b0004632bb0",
+        "name": "Ngewa",
+        "constituency": "Githunguri",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4545d6248b0004632bb1",
+        "name": "Cianda",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a454dd6248b0004632bb2",
+        "name": "Kanunga",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4558d6248b0004632bb3",
+        "name": "Kiambaa",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4564d6248b0004632bb4",
+        "name": "Kihara",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4570d6248b0004632bb5",
+        "name": "Kihingo",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a457bd6248b0004632bb6",
+        "name": "Muchatha",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4585d6248b0004632bb7",
+        "name": "Ndenderu",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4592d6248b0004632bb8",
+        "name": "Ndumberi",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a459cd6248b0004632bb9",
+        "name": "Riabai",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45a6d6248b0004632bba",
+        "name": "Technology",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45b1d6248b0004632bbb",
+        "name": "Ting'ang'a",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45bcd6248b0004632bbc",
+        "name": "Township",
+        "constituency": "Kiambaa",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45dcd6248b0004632bbd",
+        "name": "Gitaru",
+        "constituency": "Kabete",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45e8d6248b0004632bbe",
+        "name": "Muguga",
+        "constituency": "Kabete",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45f3d6248b0004632bbf",
+        "name": "Nyathuna",
+        "constituency": "Kabete",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a45fed6248b0004632bc0",
+        "name": "Kabete",
+        "constituency": "Kabete",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4608d6248b0004632bc1",
+        "name": "Uthiru",
+        "constituency": "Kabete",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4668d6248b0004632bc2",
+        "name": "Kabete",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4672d6248b0004632bc3",
+        "name": "Karai",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a467ed6248b0004632bc4",
+        "name": "Kikuyu",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4689d6248b0004632bc5",
+        "name": "Kinoo",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4692d6248b0004632bc6",
+        "name": "Muguga",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a469ed6248b0004632bc7",
+        "name": "Nyathuna",
+        "constituency": "Kikuyu",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a46cfd6248b0004632bc8",
+        "name": "Bibirioni",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a46dad6248b0004632bc9",
+        "name": "Kamirithu",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a46e6d6248b0004632bca",
+        "name": "Limuru Central",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a46efd6248b0004632bcb",
+        "name": "Limuru East",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a46fcd6248b0004632bcc",
+        "name": "Tigoni",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a470ad6248b0004632bcd",
+        "name": "Ndeiya",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4717d6248b0004632bce",
+        "name": "Ngecha",
+        "constituency": "Limuru",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4743d6248b0004632bcf",
+        "name": "Kinale",
+        "constituency": "Lari",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a474dd6248b0004632bd0",
+        "name": "Kijabe",
+        "constituency": "Lari",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4758d6248b0004632bd1",
+        "name": "Nyanduma",
+        "constituency": "Lari",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a4763d6248b0004632bd2",
+        "name": "Kamburu",
+        "constituency": "Lari",
+        "county": "Kiambu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a476fd6248b0004632bd3",
+        "name": "Lari",
+        "constituency": "Lari",
+        "county": "Kiambu",
+        "__v": 0
+    }
+]

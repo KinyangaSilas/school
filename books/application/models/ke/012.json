@@ -1,0 +1,485 @@
+[
+    {
+        "_id": "5c1a19d7d6248b0004632a18",
+        "name": "Giteretu",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1aead6248b0004632a19",
+        "name": "Igembe East",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1af5d6248b0004632a1a",
+        "name": "Igembe South",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b05d6248b0004632a1b",
+        "name": "Igembe South East",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b14d6248b0004632a1c",
+        "name": "Igembe South West",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b21d6248b0004632a1d",
+        "name": "Kangeta",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b2fd6248b0004632a1e",
+        "name": "Kiegoi",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b39d6248b0004632a1f",
+        "name": "Njia",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b43d6248b0004632a20",
+        "name": "Mailo Tatu",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b4dd6248b0004632a21",
+        "name": "Maua East",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b5ad6248b0004632a22",
+        "name": "Maua North",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b65d6248b0004632a23",
+        "name": "Maua South",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a1b70d6248b0004632a24",
+        "name": "Stadium",
+        "constituency": "Igembe South",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a24bad6248b0004632a25",
+        "name": "Akirang'ondu",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a24c7d6248b0004632a26",
+        "name": "Antuabetwe kiongo",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a24d2d6248b0004632a27",
+        "name": "Antuambui",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a24e2d6248b0004632a28",
+        "name": "Athiru Runjine",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2500d6248b0004632a29",
+        "name": "Kabachi",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2509d6248b0004632a2a",
+        "name": "Naathu",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2515d6248b0004632a2b",
+        "name": "Ntunene",
+        "constituency": "Igembe North",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2555d6248b0004632a2c",
+        "name": "Akithi",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a25a7d6248b0004632a2d",
+        "name": "Kianjai",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a25c4d6248b0004632a2e",
+        "name": "Kitheo",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a25d0d6248b0004632a2f",
+        "name": "Mbeu",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a25ded6248b0004632a30",
+        "name": "Mituntu",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a25e9d6248b0004632a31",
+        "name": "Nkomo",
+        "constituency": "Tigania West",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2617d6248b0004632a32",
+        "name": "Karama",
+        "constituency": "Tigania East",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2622d6248b0004632a33",
+        "name": "Kigucwa",
+        "constituency": "Tigania East",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a262dd6248b0004632a34",
+        "name": "Mikinduri",
+        "constituency": "Tigania East",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2638d6248b0004632a35",
+        "name": "Muthara",
+        "constituency": "Tigania East",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2643d6248b0004632a36",
+        "name": "Thangatha",
+        "constituency": "Tigania East",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2669d6248b0004632a37",
+        "name": "Cathedral",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2675d6248b0004632a38",
+        "name": "Central",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2680d6248b0004632a39",
+        "name": "Commercial",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a268cd6248b0004632a3a",
+        "name": "Gakoromone",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2699d6248b0004632a3b",
+        "name": "Hospital",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26a6d6248b0004632a3c",
+        "name": "Kaaga",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26b0d6248b0004632a3d",
+        "name": "Milimani",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26bad6248b0004632a3e",
+        "name": "Mwendantu",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26c4d6248b0004632a3f",
+        "name": "Stadium",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26cdd6248b0004632a40",
+        "name": "Chugu",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26d6d6248b0004632a41",
+        "name": "Giaki",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26e0d6248b0004632a42",
+        "name": "Kiirua",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26ead6248b0004632a43",
+        "name": "Kirimara",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26f4d6248b0004632a44",
+        "name": "Kisima",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a26ffd6248b0004632a45",
+        "name": "Ntakira",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2709d6248b0004632a46",
+        "name": "Ontulili",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2712d6248b0004632a47",
+        "name": "Ruiri",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a271ed6248b0004632a48",
+        "name": "Thuura",
+        "constituency": "North Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a274dd6248b0004632a49",
+        "name": "Timau",
+        "constituency": "Buuri",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2756d6248b0004632a4a",
+        "name": "Kisima",
+        "constituency": "Buuri",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2761d6248b0004632a4b",
+        "name": "Kirua",
+        "constituency": "Buuri",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a276ed6248b0004632a4c",
+        "name": "Ruiri",
+        "constituency": "Buuri",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a278dd6248b0004632a4d",
+        "name": "Gatimbi",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2799d6248b0004632a4e",
+        "name": "Kariene",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27a4d6248b0004632a4f",
+        "name": "Katheri",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27aed6248b0004632a50",
+        "name": "Kiagu",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27bdd6248b0004632a51",
+        "name": "Kibaranyaki",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27c8d6248b0004632a52",
+        "name": "Kibirichia",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27d8d6248b0004632a53",
+        "name": "Kithirune",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a27e4d6248b0004632a54",
+        "name": "Mwangathia",
+        "constituency": "Central Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2817d6248b0004632a55",
+        "name": "Abogeta",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2822d6248b0004632a56",
+        "name": "Igoji",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a282dd6248b0004632a57",
+        "name": "Igoki",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2838d6248b0004632a58",
+        "name": "Kanyakine",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2846d6248b0004632a59",
+        "name": "Mikumbune",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2852d6248b0004632a5a",
+        "name": "Mitiine",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a285fd6248b0004632a5b",
+        "name": "Mitunguu",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    },
+    {
+        "_id": "5c1a2869d6248b0004632a5c",
+        "name": "Nkuene",
+        "constituency": "South Imenti",
+        "county": "Meru",
+        "__v": 0
+    }
+]

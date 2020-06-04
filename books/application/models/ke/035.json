@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "5c1b5fac8a6e0a0004a71adf",
+        "name": "Londiani",
+        "constituency": "Kipkelion East",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5fb98a6e0a0004a71ae0",
+        "name": "Kedowa",
+        "constituency": "Kipkelion East",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5fc38a6e0a0004a71ae1",
+        "name": "Chepseon",
+        "constituency": "Kipkelion East",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5fcd8a6e0a0004a71ae2",
+        "name": "Tendeno",
+        "constituency": "Kipkelion East",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b601d8a6e0a0004a71ae3",
+        "name": "Central",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60278a6e0a0004a71ae4",
+        "name": "Chelimo",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b602f8a6e0a0004a71ae5",
+        "name": "Kapkugerwet",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60388a6e0a0004a71ae6",
+        "name": "Kimugung",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60408a6e0a0004a71ae7",
+        "name": "Kipchimchim",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60488a6e0a0004a71ae8",
+        "name": "Motobo",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b604f8a6e0a0004a71ae9",
+        "name": "Ainamoi",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60578a6e0a0004a71aea",
+        "name": "Kapsaos",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60608a6e0a0004a71aeb",
+        "name": "Kapsoit",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60678a6e0a0004a71aec",
+        "name": "Soin",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60728a6e0a0004a71aed",
+        "name": "Soliat",
+        "constituency": "Ainamoi",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60a28a6e0a0004a71aee",
+        "name": "Cheborge",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60ab8a6e0a0004a71aef",
+        "name": "Cheplanget",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60b48a6e0a0004a71af0",
+        "name": "Cheptendeniet",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60bf8a6e0a0004a71af1",
+        "name": "Kapkatet",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60c98a6e0a0004a71af2",
+        "name": "Kusumek",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60d28a6e0a0004a71af3",
+        "name": "Litein",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60db8a6e0a0004a71af4",
+        "name": "Chemosot",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60e58a6e0a0004a71af5",
+        "name": "Kibugat",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60ef8a6e0a0004a71af6",
+        "name": "Kisiara",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b60fa8a6e0a0004a71af7",
+        "name": "Tebesonik",
+        "constituency": "Bureti",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61398a6e0a0004a71af8",
+        "name": "Cheptororiet",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b614b8a6e0a0004a71af9",
+        "name": "Kapsuser",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61528a6e0a0004a71afa",
+        "name": "Kipkoiyan",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b615b8a6e0a0004a71afb",
+        "name": "Chaik",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61648a6e0a0004a71afc",
+        "name": "Chemamul",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b616e8a6e0a0004a71afd",
+        "name": "Kabianga",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61768a6e0a0004a71afe",
+        "name": "Kaplelatet",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61828a6e0a0004a71aff",
+        "name": "Kebeneti",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b618c8a6e0a0004a71b00",
+        "name": "Kiptere",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61948a6e0a0004a71b01",
+        "name": "Seretut",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b619d8a6e0a0004a71b02",
+        "name": "Waldai",
+        "constituency": "Belgut",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61c98a6e0a0004a71b03",
+        "name": "Sigowet",
+        "constituency": "Sigowet–Soin",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61d48a6e0a0004a71b04",
+        "name": "Kaplelartet",
+        "constituency": "Sigowet–Soin",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61e18a6e0a0004a71b05",
+        "name": "Soliat",
+        "constituency": "Sigowet–Soin",
+        "county": "Kericho",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b61eb8a6e0a0004a71b06",
+        "name": "Soin",
+        "constituency": "Sigowet–Soin",
+        "county": "Kericho",
+        "__v": 0
+    }
+]

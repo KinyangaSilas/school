@@ -1,0 +1,352 @@
+[
+    {
+        "_id": "5c1b69ef8a6e0a0004a71b62",
+        "name": "Chemoge",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a108a6e0a0004a71b63",
+        "name": "Chepkube",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a1a8a6e0a0004a71b64",
+        "name": "Cheptais",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a218a6e0a0004a71b65",
+        "name": "Chepyuk",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a288a6e0a0004a71b66",
+        "name": "Chesikak",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a318a6e0a0004a71b67",
+        "name": "Chongeywo",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a3a8a6e0a0004a71b68",
+        "name": "Elgon",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a438a6e0a0004a71b69",
+        "name": "Emmia",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a4b8a6e0a0004a71b6a",
+        "name": "Kapkateny",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a538a6e0a0004a71b6b",
+        "name": "Kaptama",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6a5b8a6e0a0004a71b6c",
+        "name": "Namorio",
+        "constituency": "Mt. Elgon",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6aa38a6e0a0004a71b6d",
+        "name": "Chebukutumi",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6acd8a6e0a0004a71b6e",
+        "name": "Chongoyi",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ad78a6e0a0004a71b6f",
+        "name": "Kulisiru",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ae08a6e0a0004a71b70",
+        "name": "Ndakalu",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ae98a6e0a0004a71b71",
+        "name": "Sitabicha",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6af28a6e0a0004a71b72",
+        "name": "Tamlega",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6af98a6e0a0004a71b73",
+        "name": "Chwele",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b038a6e0a0004a71b74",
+        "name": "Sirare",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b138a6e0a0004a71b75",
+        "name": "Lwandanyi",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b1b8a6e0a0004a71b76",
+        "name": "Mukuyuni",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b258a6e0a0004a71b77",
+        "name": "Namwela",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b2e8a6e0a0004a71b78",
+        "name": "North Bukusu",
+        "constituency": "Sirisia",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b858a6e0a0004a71b79",
+        "name": "Mukwa",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b8f8a6e0a0004a71b7a",
+        "name": "Siboti",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b968a6e0a0004a71b7b",
+        "name": "Bumula",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6b9f8a6e0a0004a71b7c",
+        "name": "Kimaeti",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ba88a6e0a0004a71b7d",
+        "name": "Musikoma",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6bb08a6e0a0004a71b7e",
+        "name": "Namasanda",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6bb88a6e0a0004a71b7f",
+        "name": "Sio",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6bc08a6e0a0004a71b80",
+        "name": "Siritanyi",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6bc88a6e0a0004a71b81",
+        "name": "South Bukusu",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6bd58a6e0a0004a71b82",
+        "name": "West Bukusu",
+        "constituency": "Bumula",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c058a6e0a0004a71b83",
+        "name": "Khalaba",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c0e8a6e0a0004a71b84",
+        "name": "Mjini",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c168a6e0a0004a71b85",
+        "name": "Sinoko",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c1d8a6e0a0004a71b86",
+        "name": "Stadium",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c278a6e0a0004a71b87",
+        "name": "Marakaru",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c2e8a6e0a0004a71b88",
+        "name": "Bukembe",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c378a6e0a0004a71b89",
+        "name": "East Sang'alo",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c418a6e0a0004a71b8a",
+        "name": "West Sangalo",
+        "constituency": "Kanduyi",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6c8a8a6e0a0004a71b8b",
+        "name": "Kibingei",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ca58a6e0a0004a71b8c",
+        "name": "Kimilili Township",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6cb38a6e0a0004a71b8d",
+        "name": "Kimilili Rural",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6cbe8a6e0a0004a71b8e",
+        "name": "Maeni",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6cc58a6e0a0004a71b8f",
+        "name": "Kamukuywa",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6cce8a6e0a0004a71b90",
+        "name": "Mbakalo",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6cda8a6e0a0004a71b91",
+        "name": "Naitiri",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ce28a6e0a0004a71b92",
+        "name": "Ndalu",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b6ced8a6e0a0004a71b93",
+        "name": "Tongaren",
+        "constituency": "Kimilili",
+        "county": "Bungoma",
+        "__v": 0
+    }
+]

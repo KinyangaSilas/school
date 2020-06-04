@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "5c1b4f2baef1500004df051a",
+        "name": "Central Keekonyokie",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b518a6e0a0004a71ab8",
+        "name": "Kaputei North",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b5e8a6e0a0004a71ab9",
+        "name": "Kiserian",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b678a6e0a0004a71aba",
+        "name": "Kitengela",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b708a6e0a0004a71abb",
+        "name": "Magadi",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b798a6e0a0004a71abc",
+        "name": "Mosiro",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b818a6e0a0004a71abd",
+        "name": "Ngong",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5b968a6e0a0004a71abe",
+        "name": "Nkai-Murunya",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5ba28a6e0a0004a71abf",
+        "name": "North Keekonyokie",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5bb08a6e0a0004a71ac0",
+        "name": "Olkiramatian",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5bb88a6e0a0004a71ac1",
+        "name": "Oloolua",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5bd28a6e0a0004a71ac2",
+        "name": "Ongata Rongai",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5bdc8a6e0a0004a71ac3",
+        "name": "Shompole",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5be68a6e0a0004a71ac4",
+        "name": "South Keekonyokie",
+        "constituency": "Kajiado North",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5c0a8a6e0a0004a71ac5",
+        "name": "Eiti",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e278a6e0a0004a71ac6",
+        "name": "Esukuta",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e308a6e0a0004a71ac7",
+        "name": "Hospital",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e3a8a6e0a0004a71ac8",
+        "name": "Majengo",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e428a6e0a0004a71ac9",
+        "name": "Market",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e4c8a6e0a0004a71aca",
+        "name": "Olopurupurana",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e548a6e0a0004a71acb",
+        "name": "Ildamat",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e5e8a6e0a0004a71acc",
+        "name": "Kaputei Central",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e6a8a6e0a0004a71acd",
+        "name": "Kenyawa",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e738a6e0a0004a71ace",
+        "name": "Loodokilani",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e7c8a6e0a0004a71acf",
+        "name": "Matapato East",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e858a6e0a0004a71ad0",
+        "name": "Matapato West",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e8f8a6e0a0004a71ad1",
+        "name": "North Dalalakutuk",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5e978a6e0a0004a71ad2",
+        "name": "Poka",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5ea08a6e0a0004a71ad3",
+        "name": "Purko",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5eaa8a6e0a0004a71ad4",
+        "name": "South Dalalakutuk",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5eb68a6e0a0004a71ad5",
+        "name": "Torosei",
+        "constituency": "Kajiado Central",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f138a6e0a0004a71ad6",
+        "name": "Meto",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f1c8a6e0a0004a71ad7",
+        "name": "Lenkisim",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f248a6e0a0004a71ad8",
+        "name": "Entonet",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f2e8a6e0a0004a71ad9",
+        "name": "Mbirikani",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f378a6e0a0004a71ada",
+        "name": "Kimana",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f418a6e0a0004a71adb",
+        "name": "Kuku",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f498a6e0a0004a71adc",
+        "name": "Rombo",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f698a6e0a0004a71add",
+        "name": "Namanga",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b5f728a6e0a0004a71ade",
+        "name": "Mailua",
+        "constituency": "Kajiado South",
+        "county": "Kajiado",
+        "__v": 0
+    }
+]

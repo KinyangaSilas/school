@@ -1,0 +1,422 @@
+[
+    {
+        "_id": "5c1b3923aef1500004df0450",
+        "name": "Bartum",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a41aef1500004df0451",
+        "name": "Kaboskei",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a4baef1500004df0452",
+        "name": "Kaboskei Kerio",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a55aef1500004df0453",
+        "name": "Kabutiei",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a5faef1500004df0454",
+        "name": "Katiorin",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a6aaef1500004df0455",
+        "name": "Kelyo",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a73aef1500004df0456",
+        "name": "Lawan",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a7baef1500004df0457",
+        "name": "Ng'orora",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a89aef1500004df0458",
+        "name": "Saimo North",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3a93aef1500004df0459",
+        "name": "Sibilo",
+        "constituency": "Baringo North",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ab6aef1500004df045a",
+        "name": "Chebano",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3abeaef1500004df045b",
+        "name": "Kaprogonya",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3acbaef1500004df045c",
+        "name": "Kapsoo",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ad4aef1500004df045d",
+        "name": "Kinyo",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3adeaef1500004df045e",
+        "name": "Kituro",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ae7aef1500004df045f",
+        "name": "Seguton",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3af6aef1500004df0460",
+        "name": "Chebinyiny",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b00aef1500004df0461",
+        "name": "Emom",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b0caef1500004df0462",
+        "name": "Ewalel Soi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b17aef1500004df0463",
+        "name": "Ilchamus",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b22aef1500004df0464",
+        "name": "Kabarnet Soi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b2daef1500004df0465",
+        "name": "Kabasis",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b39aef1500004df0466",
+        "name": "Kimalel",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b42aef1500004df0467",
+        "name": "Loboi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b4aaef1500004df0468",
+        "name": "Marigat",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b54aef1500004df0469",
+        "name": "Mochongoi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b5faef1500004df046a",
+        "name": "Mukutani",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b69aef1500004df046b",
+        "name": "Ng'ambo",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b72aef1500004df046c",
+        "name": "Ng'et Moi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b7daef1500004df046d",
+        "name": "Orokwo",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b88aef1500004df046e",
+        "name": "Sacho Mosop",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b92aef1500004df046f",
+        "name": "Sacho Soi",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3b9caef1500004df0470",
+        "name": "Salabani",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ba6aef1500004df0471",
+        "name": "Talai",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3bb3aef1500004df0472",
+        "name": "Tenges",
+        "constituency": "Baringo Central",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c09aef1500004df0473",
+        "name": "Cheberen",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c14aef1500004df0474",
+        "name": "Emining",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c1faef1500004df0475",
+        "name": "Kakimor",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c28aef1500004df0476",
+        "name": "Kamar",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c31aef1500004df0477",
+        "name": "Kimng'orom",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c3caef1500004df0478",
+        "name": "Kisanana",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c46aef1500004df0479",
+        "name": "Koibos-Soi",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c50aef1500004df047a",
+        "name": "Lembus Kiptoim",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c5aaef1500004df047b",
+        "name": "Lembus Mogotio",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c64aef1500004df047c",
+        "name": "Mugurin",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c6eaef1500004df047d",
+        "name": "Ol Kokwe",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c79aef1500004df047e",
+        "name": "Sinende",
+        "constituency": "Mogotio",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3c9aaef1500004df047f",
+        "name": "Benonin",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ca2aef1500004df0480",
+        "name": "Kabimoi",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3cabaef1500004df0481",
+        "name": "Perkerra",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3cb3aef1500004df0482",
+        "name": "Poror",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3cdcaef1500004df0483",
+        "name": "Ravine",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3ce4aef1500004df0484",
+        "name": "Solian",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3cedaef1500004df0485",
+        "name": "Kiplombe",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3cfcaef1500004df0486",
+        "name": "Lembus Mosop",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d08aef1500004df0487",
+        "name": "Lembus Torongo",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d12aef1500004df0488",
+        "name": "Maji Mazuri",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d1daef1500004df0489",
+        "name": "Mumberes",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d2aaef1500004df048a",
+        "name": "Saos",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d34aef1500004df048b",
+        "name": "Sigoro",
+        "constituency": "Eldama Ravine",
+        "county": "Baringo",
+        "__v": 0
+    }
+]

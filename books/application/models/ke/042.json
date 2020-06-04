@@ -1,0 +1,303 @@
+[
+    {
+        "_id": "5c1b731a8a6e0a0004a71be8",
+        "name": "Central Kolwa",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73378a6e0a0004a71be9",
+        "name": "East Kajulu",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73428a6e0a0004a71bea",
+        "name": "East Kolwa",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b734d8a6e0a0004a71beb",
+        "name": "Manyatta",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73578a6e0a0004a71bec",
+        "name": "Nyalenda",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73618a6e0a0004a71bed",
+        "name": "West Kajulu",
+        "constituency": "Kisumu East",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73958a6e0a0004a71bee",
+        "name": "Aerodrome",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b739e8a6e0a0004a71bef",
+        "name": "Kaloleni",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73a78a6e0a0004a71bf0",
+        "name": "Kibuye",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73b28a6e0a0004a71bf1",
+        "name": "Kisumu Central",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73bc8a6e0a0004a71bf2",
+        "name": "Kisumu East",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73c88a6e0a0004a71bf3",
+        "name": "Kisumu North",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73d18a6e0a0004a71bf4",
+        "name": "Market",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73da8a6e0a0004a71bf5",
+        "name": "Milimani",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73e28a6e0a0004a71bf6",
+        "name": "Railway",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73ed8a6e0a0004a71bf7",
+        "name": "South West Kisumu",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b73fa8a6e0a0004a71bf8",
+        "name": "Stadium",
+        "constituency": "Kisumu West",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74428a6e0a0004a71bf9",
+        "name": "Kakola",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b744c8a6e0a0004a71bfa",
+        "name": "Kochogo",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74568a6e0a0004a71bfb",
+        "name": "Kombura",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74608a6e0a0004a71bfc",
+        "name": "Onjiko",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b746a8a6e0a0004a71bfd",
+        "name": "Awasi",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74758a6e0a0004a71bfe",
+        "name": "Bwanda",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b747e8a6e0a0004a71bff",
+        "name": "Kawino",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74888a6e0a0004a71c00",
+        "name": "Kikolo",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74938a6e0a0004a71c01",
+        "name": "Kochieng'",
+        "constituency": "Nyando",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74b88a6e0a0004a71c02",
+        "name": "Fort Ternan",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74c38a6e0a0004a71c03",
+        "name": "God Nyithindo",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74cc8a6e0a0004a71c04",
+        "name": "Koru",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74d58a6e0a0004a71c05",
+        "name": "Muhoroni Town",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74e28a6e0a0004a71c06",
+        "name": "Owaga",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74ed8a6e0a0004a71c07",
+        "name": "Ombeyi South",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b74f88a6e0a0004a71c08",
+        "name": "Chemelil",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75018a6e0a0004a71c09",
+        "name": "Miwani",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b750c8a6e0a0004a71c0a",
+        "name": "North East Kano",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75188a6e0a0004a71c0b",
+        "name": "Nyang'oma",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75248a6e0a0004a71c0c",
+        "name": "Ombeyi North",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75318a6e0a0004a71c0d",
+        "name": "Tamu",
+        "constituency": "Muhoroni",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75548a6e0a0004a71c0e",
+        "name": "South East Nyakach",
+        "constituency": "Nyakach",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b755d8a6e0a0004a71c0f",
+        "name": "North Nyakach",
+        "constituency": "Nyakach",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75678a6e0a0004a71c10",
+        "name": "South West Nyakach",
+        "constituency": "Nyakach",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b75718a6e0a0004a71c11",
+        "name": "Central Nyakach",
+        "constituency": "Nyakach",
+        "county": "Kisumu",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b757d8a6e0a0004a71c12",
+        "name": "West Nyakach",
+        "constituency": "Nyakach",
+        "county": "Kisumu",
+        "__v": 0
+    }
+]

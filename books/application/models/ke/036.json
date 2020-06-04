@@ -1,0 +1,135 @@
+[
+    {
+        "_id": "5c1b62238a6e0a0004a71b07",
+        "name": "Chebilat",
+        "constituency": "Sotik",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62418a6e0a0004a71b08",
+        "name": "Chemagel",
+        "constituency": "Sotik",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b624b8a6e0a0004a71b09",
+        "name": "Kaplong",
+        "constituency": "Sotik",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b627b8a6e0a0004a71b0a",
+        "name": "Itembe",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62868a6e0a0004a71b0b",
+        "name": "Tuluapmosonik",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62968a6e0a0004a71b0c",
+        "name": "Chebunyo",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b629e8a6e0a0004a71b0d",
+        "name": "Kaboson",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62a68a6e0a0004a71b0e",
+        "name": "Lelaitich",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62af8a6e0a0004a71b0f",
+        "name": "Makimeny",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62b88a6e0a0004a71b10",
+        "name": "Sigor",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62c38a6e0a0004a71b11",
+        "name": "Siongiroi",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b62cc8a6e0a0004a71b12",
+        "name": "Sugumeriga",
+        "constituency": "Chepalungu",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b633a8a6e0a0004a71b13",
+        "name": "Boito",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63498a6e0a0004a71b14",
+        "name": "Embomos",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63548a6e0a0004a71b15",
+        "name": "Kaptebeng'wet",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b635e8a6e0a0004a71b16",
+        "name": "Kimulot",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b636a8a6e0a0004a71b17",
+        "name": "Koiwa",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63778a6e0a0004a71b18",
+        "name": "Mogogosiek",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b63818a6e0a0004a71b19",
+        "name": "Saosa",
+        "constituency": "Konoin",
+        "county": "Bomet",
+        "__v": 0
+    }
+]

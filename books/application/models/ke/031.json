@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "5c1b3d68aef1500004df048c",
+        "name": "Kiganda",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d7baef1500004df048d",
+        "name": "Maina",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d84aef1500004df048e",
+        "name": "Manguo",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3d8caef1500004df048f",
+        "name": "Ndunyu",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3dacaef1500004df0490",
+        "name": "Ndururumo",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3db6aef1500004df0491",
+        "name": "Uaso Narok",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3dbfaef1500004df0492",
+        "name": "Ayam",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3dcaaef1500004df0493",
+        "name": "Lorian",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3dd3aef1500004df0494",
+        "name": "Manyatta",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3dddaef1500004df0495",
+        "name": "Melwa",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3de7aef1500004df0496",
+        "name": "Gituamba",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3df0aef1500004df0497",
+        "name": "Igwamiti",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3df8aef1500004df0498",
+        "name": "Kinamba",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e01aef1500004df0499",
+        "name": "Muhotetu",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e09aef1500004df049a",
+        "name": "Mutara",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e12aef1500004df049b",
+        "name": "Muthengera",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e1caef1500004df049c",
+        "name": "Ol-Moran",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e28aef1500004df049d",
+        "name": "Salama",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e32aef1500004df049e",
+        "name": "Sipili",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b3e39aef1500004df049f",
+        "name": "Sosiani",
+        "constituency": "Laikipia West",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45caaef1500004df04a0",
+        "name": "Biashara",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45d2aef1500004df04a1",
+        "name": "Central",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45dcaef1500004df04a2",
+        "name": "Hospital",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45e4aef1500004df04a3",
+        "name": "Mashamba",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45eeaef1500004df04a4",
+        "name": "Nturukuma",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45f7aef1500004df04a5",
+        "name": "Stadium",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b45ffaef1500004df04a6",
+        "name": "Ethi",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4609aef1500004df04a7",
+        "name": "Ildigiri",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4611aef1500004df04a8",
+        "name": "Ilingwesi",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4619aef1500004df04a9",
+        "name": "Lamuria",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4625aef1500004df04aa",
+        "name": "Makurian",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b462daef1500004df04ab",
+        "name": "Mukogodo",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4635aef1500004df04ac",
+        "name": "Mumonyot",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b463caef1500004df04ad",
+        "name": "Naibor",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4644aef1500004df04ae",
+        "name": "Ngobit",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4652aef1500004df04af",
+        "name": "Oloiborsoit",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b465aaef1500004df04b0",
+        "name": "Segera",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4663aef1500004df04b1",
+        "name": "Sirma",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b466eaef1500004df04b2",
+        "name": "Tigithi",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    },
+    {
+        "_id": "5c1b4677aef1500004df04b3",
+        "name": "Umande",
+        "constituency": "Laikipia East",
+        "county": "Laikipia",
+        "__v": 0
+    }
+]
